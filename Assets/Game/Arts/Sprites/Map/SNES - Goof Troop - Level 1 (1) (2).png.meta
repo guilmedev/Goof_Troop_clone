@@ -1,0 +1,2676 @@
+fileFormatVersion: 2
+guid: 40d268e9593cf7c41b158fc4c0cde4d1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5070699359105070932
+    second: SNES - Goof Troop - Level 1 (1) (2)_0
+  - first:
+      213: -8201512190191108743
+    second: SNES - Goof Troop - Level 1 (1) (2)_1
+  - first:
+      213: 4481304729659495304
+    second: SNES - Goof Troop - Level 1 (1) (2)_2
+  - first:
+      213: -1492280595970821871
+    second: SNES - Goof Troop - Level 1 (1) (2)_3
+  - first:
+      213: -7277560393578835517
+    second: SNES - Goof Troop - Level 1 (1) (2)_4
+  - first:
+      213: -4814051969264633325
+    second: SNES - Goof Troop - Level 1 (1) (2)_5
+  - first:
+      213: -3935927042290612492
+    second: SNES - Goof Troop - Level 1 (1) (2)_6
+  - first:
+      213: 6322744069937499869
+    second: SNES - Goof Troop - Level 1 (1) (2)_7
+  - first:
+      213: -7140003674747112222
+    second: SNES - Goof Troop - Level 1 (1) (2)_8
+  - first:
+      213: 8275094575815389295
+    second: SNES - Goof Troop - Level 1 (1) (2)_9
+  - first:
+      213: -9166587967081760840
+    second: SNES - Goof Troop - Level 1 (1) (2)_10
+  - first:
+      213: 1178357969111864984
+    second: SNES - Goof Troop - Level 1 (1) (2)_11
+  - first:
+      213: 3929323737500161030
+    second: SNES - Goof Troop - Level 1 (1) (2)_12
+  - first:
+      213: 8811234293891962416
+    second: SNES - Goof Troop - Level 1 (1) (2)_13
+  - first:
+      213: 2161832606774813861
+    second: SNES - Goof Troop - Level 1 (1) (2)_14
+  - first:
+      213: -105103646686928234
+    second: SNES - Goof Troop - Level 1 (1) (2)_15
+  - first:
+      213: -2663447642601162594
+    second: SNES - Goof Troop - Level 1 (1) (2)_16
+  - first:
+      213: 781211865025777500
+    second: SNES - Goof Troop - Level 1 (1) (2)_17
+  - first:
+      213: 6569425785862417128
+    second: SNES - Goof Troop - Level 1 (1) (2)_18
+  - first:
+      213: 4573952169861398028
+    second: SNES - Goof Troop - Level 1 (1) (2)_19
+  - first:
+      213: 31697437436889083
+    second: SNES - Goof Troop - Level 1 (1) (2)_20
+  - first:
+      213: -1521717575858541477
+    second: SNES - Goof Troop - Level 1 (1) (2)_21
+  - first:
+      213: 8810455863387251773
+    second: SNES - Goof Troop - Level 1 (1) (2)_22
+  - first:
+      213: -3722663106602886340
+    second: SNES - Goof Troop - Level 1 (1) (2)_23
+  - first:
+      213: 5942767187580936320
+    second: SNES - Goof Troop - Level 1 (1) (2)_24
+  - first:
+      213: -301515406493291717
+    second: SNES - Goof Troop - Level 1 (1) (2)_25
+  - first:
+      213: 1344207680088411040
+    second: SNES - Goof Troop - Level 1 (1) (2)_26
+  - first:
+      213: 1032487610098894336
+    second: SNES - Goof Troop - Level 1 (1) (2)_27
+  - first:
+      213: -7699635979141452989
+    second: SNES - Goof Troop - Level 1 (1) (2)_28
+  - first:
+      213: -8069950974089254656
+    second: SNES - Goof Troop - Level 1 (1) (2)_32
+  - first:
+      213: 3231871414665222802
+    second: SNES - Goof Troop - Level 1 (1) (2)_33
+  - first:
+      213: -6910362729215608937
+    second: SNES - Goof Troop - Level 1 (1) (2)_34
+  - first:
+      213: 2273410071125921465
+    second: SNES - Goof Troop - Level 1 (1) (2)_35
+  - first:
+      213: -3599902806375988562
+    second: SNES - Goof Troop - Level 1 (1) (2)_36
+  - first:
+      213: 6924625646080084451
+    second: SNES - Goof Troop - Level 1 (1) (2)_37
+  - first:
+      213: -1073610757339297555
+    second: SNES - Goof Troop - Level 1 (1) (2)_40
+  - first:
+      213: -4240874914467607980
+    second: SNES - Goof Troop - Level 1 (1) (2)_44
+  - first:
+      213: 2877148901326356474
+    second: SNES - Goof Troop - Level 1 (1) (2)_45
+  - first:
+      213: 7426648142940886335
+    second: SNES - Goof Troop - Level 1 (1) (2)_46
+  - first:
+      213: -2641785850025595502
+    second: SNES - Goof Troop - Level 1 (1) (2)_47
+  - first:
+      213: -2639088178894397472
+    second: SNES - Goof Troop - Level 1 (1) (2)_48
+  - first:
+      213: 1262020036371345991
+    second: SNES - Goof Troop - Level 1 (1) (2)_49
+  - first:
+      213: -924012466062768095
+    second: SNES - Goof Troop - Level 1 (1) (2)_50
+  - first:
+      213: 4466715661828582257
+    second: SNES - Goof Troop - Level 1 (1) (2)_51
+  - first:
+      213: 12756945695916030
+    second: SNES - Goof Troop - Level 1 (1) (2)_52
+  - first:
+      213: -108212027744786898
+    second: SNES - Goof Troop - Level 1 (1) (2)_53
+  - first:
+      213: -6518165855222389380
+    second: SNES - Goof Troop - Level 1 (1) (2)_54
+  - first:
+      213: 5447712180222926995
+    second: SNES - Goof Troop - Level 1 (1) (2)_55
+  - first:
+      213: -2815740475817293030
+    second: SNES - Goof Troop - Level 1 (1) (2)_56
+  - first:
+      213: -4674915134280667060
+    second: SNES - Goof Troop - Level 1 (1) (2)_57
+  - first:
+      213: 4169212320628322398
+    second: SNES - Goof Troop - Level 1 (1) (2)_58
+  - first:
+      213: -7234665359645044325
+    second: SNES - Goof Troop - Level 1 (1) (2)_59
+  - first:
+      213: 4248932206824486728
+    second: SNES - Goof Troop - Level 1 (1) (2)_60
+  - first:
+      213: 6144846583160691672
+    second: SNES - Goof Troop - Level 1 (1) (2)_61
+  - first:
+      213: -6672072643526093927
+    second: SNES - Goof Troop - Level 1 (1) (2)_62
+  - first:
+      213: 8600920122348729645
+    second: SNES - Goof Troop - Level 1 (1) (2)_63
+  - first:
+      213: 3780252841645486664
+    second: SNES - Goof Troop - Level 1 (1) (2)_64
+  - first:
+      213: 7611375946586538498
+    second: SNES - Goof Troop - Level 1 (1) (2)_65
+  - first:
+      213: 8455497529116446080
+    second: SNES - Goof Troop - Level 1 (1) (2)_66
+  - first:
+      213: 5242558930184894283
+    second: SNES - Goof Troop - Level 1 (1) (2)_67
+  - first:
+      213: -7942452233008784105
+    second: SNES - Goof Troop - Level 1 (1) (2)_68
+  - first:
+      213: 4709552461561933915
+    second: SNES - Goof Troop - Level 1 (1) (2)_69
+  - first:
+      213: 8278517143102595967
+    second: SNES - Goof Troop - Level 1 (1) (2)_70
+  - first:
+      213: -2932032740795723904
+    second: SNES - Goof Troop - Level 1 (1) (2)_72
+  - first:
+      213: 3803213815580825385
+    second: SNES - Goof Troop - Level 1 (1) (2)_73
+  - first:
+      213: -3356766058741972890
+    second: SNES - Goof Troop - Level 1 (1) (2)_74
+  - first:
+      213: -4240627938360764082
+    second: SNES - Goof Troop - Level 1 (1) (2)_75
+  - first:
+      213: 1185655328982744365
+    second: SNES - Goof Troop - Level 1 (1) (2)_76
+  - first:
+      213: -4852184130282931106
+    second: SNES - Goof Troop - Level 1 (1) (2)_77
+  - first:
+      213: 8890345567888297124
+    second: SNES - Goof Troop - Level 1 (1) (2)_78
+  - first:
+      213: 4407108204456691218
+    second: SNES - Goof Troop - Level 1 (1) (2)_79
+  - first:
+      213: -2295673214305022634
+    second: SNES - Goof Troop - Level 1 (1) (2)_80
+  - first:
+      213: -5688654238866543249
+    second: SNES - Goof Troop - Level 1 (1) (2)_81
+  - first:
+      213: -146410469761992841
+    second: SNES - Goof Troop - Level 1 (1) (2)_82
+  - first:
+      213: 3744042591426280807
+    second: SNES - Goof Troop - Level 1 (1) (2)_84
+  - first:
+      213: -5121228695987294103
+    second: SNES - Goof Troop - Level 1 (1) (2)_87
+  - first:
+      213: 2017224979720611701
+    second: SNES - Goof Troop - Level 1 (1) (2)_88
+  - first:
+      213: 797072782705708647
+    second: SNES - Goof Troop - Level 1 (1) (2)_89
+  - first:
+      213: 3879604109306334220
+    second: SNES - Goof Troop - Level 1 (1) (2)_90
+  - first:
+      213: 4675206308298896670
+    second: SNES - Goof Troop - Level 1 (1) (2)_91
+  - first:
+      213: 8381459543272622164
+    second: SNES - Goof Troop - Level 1 (1) (2)_92
+  - first:
+      213: -8724820791305596731
+    second: SNES - Goof Troop - Level 1 (1) (2)_93
+  - first:
+      213: -2760233970501137158
+    second: SNES - Goof Troop - Level 1 (1) (2)_94
+  - first:
+      213: 3310617021013830957
+    second: SNES - Goof Troop - Level 1 (1) (2)_101
+  - first:
+      213: -3582192547277715478
+    second: SNES - Goof Troop - Level 1 (1) (2)_102
+  - first:
+      213: -8268219728543533369
+    second: SNES - Goof Troop - Level 1 (1) (2)_103
+  - first:
+      213: -5828215691633418369
+    second: SNES - Goof Troop - Level 1 (1) (2)_104
+  - first:
+      213: -7006159742406657726
+    second: SNES - Goof Troop - Level 1 (1) (2)_105
+  - first:
+      213: 8761031580109669989
+    second: SNES - Goof Troop - Level 1 (1) (2)_106
+  - first:
+      213: 4544379816827409311
+    second: SNES - Goof Troop - Level 1 (1) (2)_113
+  - first:
+      213: 3056157295504440282
+    second: SNES - Goof Troop - Level 1 (1) (2)_114
+  - first:
+      213: -6078968216548403111
+    second: SNES - Goof Troop - Level 1 (1) (2)_115
+  - first:
+      213: 3528466938648534851
+    second: SNES - Goof Troop - Level 1 (1) (2)_116
+  - first:
+      213: 3853898265587860046
+    second: SNES - Goof Troop - Level 1 (1) (2)_117
+  - first:
+      213: 5442342148372686638
+    second: SNES - Goof Troop - Level 1 (1) (2)_118
+  - first:
+      213: 4522562590413506409
+    second: SNES - Goof Troop - Level 1 (1) (2)_125
+  - first:
+      213: 5815900743260983350
+    second: SNES - Goof Troop - Level 1 (1) (2)_126
+  - first:
+      213: -6330087754437081063
+    second: SNES - Goof Troop - Level 1 (1) (2)_127
+  - first:
+      213: 379087787851423062
+    second: SNES - Goof Troop - Level 1 (1) (2)_128
+  - first:
+      213: -6639677760194691184
+    second: SNES - Goof Troop - Level 1 (1) (2)_129
+  - first:
+      213: 3178769099156580165
+    second: SNES - Goof Troop - Level 1 (1) (2)_130
+  - first:
+      213: 2039074452074023837
+    second: SNES - Goof Troop - Level 1 (1) (2)_137
+  - first:
+      213: -2163598489428109969
+    second: SNES - Goof Troop - Level 1 (1) (2)_138
+  - first:
+      213: -8076914492147925038
+    second: SNES - Goof Troop - Level 1 (1) (2)_139
+  - first:
+      213: -7498702912325836938
+    second: SNES - Goof Troop - Level 1 (1) (2)_140
+  - first:
+      213: 6356158729156874170
+    second: SNES - Goof Troop - Level 1 (1) (2)_141
+  - first:
+      213: 4057441143185679669
+    second: SNES - Goof Troop - Level 1 (1) (2)_142
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 0
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca8cdb17cc141a9b0800000000000000
+      internalID: -5070699359105070932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d7f92dd106e2e80800000000000000
+      internalID: -8201512190191108743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883d1ad98eac03e30800000000000000
+      internalID: 4481304729659495304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11173f354ba5a4be0800000000000000
+      internalID: -1492280595970821871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c118455169e00b90800000000000000
+      internalID: -7277560393578835517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a36b96d3d013db0800000000000000
+      internalID: -4814051969264633325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f60a6e5537c069c0800000000000000
+      internalID: -3935927042290612492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_7
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde05567b36eeb750800000000000000
+      internalID: 6322744069937499869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4f6b7bc7c99ec90800000000000000
+      internalID: -7140003674747112222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60fc326caa07d270800000000000000
+      internalID: 8275094575815389295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7b8b38fccb9c080800000000000000
+      internalID: -9166587967081760840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 188
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896d927645e5a5010800000000000000
+      internalID: 1178357969111864984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604153dee13c78630800000000000000
+      internalID: 3929323737500161030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0369b2808eac74a70800000000000000
+      internalID: 8811234293891962416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_14
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46bae4d4f500e10800000000000000
+      internalID: 2161832606774813861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_15
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692a0aa4ac89a8ef0800000000000000
+      internalID: -105103646686928234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_16
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98f7e80b78890bd0800000000000000
+      internalID: -2663447642601162594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_17
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f8e2d5d0c67da00800000000000000
+      internalID: 781211865025777500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eaee9822f94b2b50800000000000000
+      internalID: 6569425785862417128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e3730c341f97f30800000000000000
+      internalID: 4573952169861398028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_20
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf747b2c6ac907000800000000000000
+      internalID: 31697437436889083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5cab7a5de5c1eae0800000000000000
+      internalID: -1521717575858541477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34647e8de6054a70800000000000000
+      internalID: 8810455863387251773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_23
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 171
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b9b78c0a1765cc0800000000000000
+      internalID: -3722663106602886340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080eb9e5543f87250800000000000000
+      internalID: 5942767187580936320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_25
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3be8a5d55dc0dbf0800000000000000
+      internalID: -301515406493291717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_26
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab850c53c597a210800000000000000
+      internalID: 1344207680088411040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006cfe2d202245e00800000000000000
+      internalID: 1032487610098894336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34be4731fd5652590800000000000000
+      internalID: -7699635979141452989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009a7927856c10090800000000000000
+      internalID: -8069950974089254656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a1cdeade9e9dc20800000000000000
+      internalID: 3231871414665222802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_34
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7973100e5b57910a0800000000000000
+      internalID: -6910362729215608937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 154
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be81462a66cc8f10800000000000000
+      internalID: 2273410071125921465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2070088739a0ec0800000000000000
+      internalID: -3599902806375988562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9c92d3656391060800000000000000
+      internalID: 6924625646080084451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8c0c554b4c911f0800000000000000
+      internalID: -1073610757339297555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a0b420cb26525c0800000000000000
+      internalID: -4240874914467607980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_45
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff76759eafade720800000000000000
+      internalID: 2877148901326356474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_46
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f355ecf4321c01760800000000000000
+      internalID: 7426648142940886335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_47
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 137
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d229424cd765bd0800000000000000
+      internalID: -2641785850025595502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef1116a843106bd0800000000000000
+      internalID: -2639088178894397472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_49
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742f65f5988938110800000000000000
+      internalID: 1262020036371345991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_50
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128cb48ce8f3d23f0800000000000000
+      internalID: -924012466062768095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_51
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b67ff8a36fcfd30800000000000000
+      internalID: 4466715661828582257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_52
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effbf90ef525d2000800000000000000
+      internalID: 12756945695916030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_53
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e8ddebbd8f7ef0800000000000000
+      internalID: -108212027744786898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75a36c70b2da85a0800000000000000
+      internalID: -6518165855222389380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390a1cc5d592a9b40800000000000000
+      internalID: 5447712180222926995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_56
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b8837a4fa7ce8d0800000000000000
+      internalID: -2815740475817293030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_57
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c407a12447d5f1fb0800000000000000
+      internalID: -4674915134280667060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_58
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50bb3424840cd930800000000000000
+      internalID: 4169212320628322398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 120
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b919881bf2e499b90800000000000000
+      internalID: -7234665359645044325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477d7e845d37fa30800000000000000
+      internalID: 4248932206824486728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_61
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbd09c1961e64550800000000000000
+      internalID: 6144846583160691672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9939607e7490863a0800000000000000
+      internalID: -6672072643526093927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25fa1a184b9c5770800000000000000
+      internalID: 8600920122348729645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_64
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b07b4ee7267430800000000000000
+      internalID: 3780252841645486664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_65
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2024e3cb81a01a960800000000000000
+      internalID: 7611375946586538498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_66
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08dcd2e1436f75570800000000000000
+      internalID: 8455497529116446080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f8bb129f41c840800000000000000
+      internalID: 5242558930184894283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd00666cdb6c190800000000000000
+      internalID: -7942452233008784105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_69
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b503772f201bb5140800000000000000
+      internalID: 4709552461561933915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_70
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 103
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ac9dea7333e270800000000000000
+      internalID: 8278517143102595967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f4e0fb1c35f47d0800000000000000
+      internalID: -2932032740795723904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9279d82a0dab7c430800000000000000
+      internalID: 3803213815580825385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660c892fd0f5a61d0800000000000000
+      internalID: -3356766058741972890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49d86d9b534625c0800000000000000
+      internalID: -4240627938360764082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db0166d3b447010800000000000000
+      internalID: 1185655328982744365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cb2b1dd3499acb0800000000000000
+      internalID: -4852184130282931106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac4370e03ad06b70800000000000000
+      internalID: 8890345567888297124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216c955ef81392d30800000000000000
+      internalID: 4407108204456691218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d48f4ef512420e0800000000000000
+      internalID: -2295673214305022634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6de65a0c17dd01b0800000000000000
+      internalID: -5688654238866543249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_82
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77730761478d7fdf0800000000000000
+      internalID: -146410469761992841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d75ed66e285f330800000000000000
+      internalID: 3744042591426280807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_87
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960f32a62adbde8b0800000000000000
+      internalID: -5121228695987294103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_88
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577aa4c6e6f9efb10800000000000000
+      internalID: 2017224979720611701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_89
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e4e490975cf0b00800000000000000
+      internalID: 797072782705708647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_90
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8954e16f17d530800000000000000
+      internalID: 3879604109306334220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_91
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1532d9fd5ba1e040800000000000000
+      internalID: 4675206308298896670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_92
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45882183c0de05470800000000000000
+      internalID: 8381459543272622164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_93
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0994567b53be680800000000000000
+      internalID: -8724820791305596731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_94
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 69
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc405304dda1b9d0800000000000000
+      internalID: -2760233970501137158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_101
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d24e4e3aca1fd20800000000000000
+      internalID: 3310617021013830957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_102
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7c5768bde794ec0800000000000000
+      internalID: -3582192547277715478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_103
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6394bb6f1614d80800000000000000
+      internalID: -8268219728543533369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f15d925b40e1fa0800000000000000
+      internalID: -5828215691633418369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_105
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2497532a5de15ce90800000000000000
+      internalID: -7006159742406657726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_106
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 52
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5668a6eddcf659970800000000000000
+      internalID: 8761031580109669989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_113
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93d372cd51e01f30800000000000000
+      internalID: 4544379816827409311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_114
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbb2483ed6a96a20800000000000000
+      internalID: 3056157295504440282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_115
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9581eb36d9a23aba0800000000000000
+      internalID: -6078968216548403111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_116
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1bdf6cf1a7f030800000000000000
+      internalID: 3528466938648534851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42cbd0cd0ccb7530800000000000000
+      internalID: 3853898265587860046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_118
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 35
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e3e36955178b40800000000000000
+      internalID: 5442342148372686638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_125
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9674114e6be53ce30800000000000000
+      internalID: 4522562590413506409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_126
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630500b79ea36b050800000000000000
+      internalID: 5815900743260983350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_127
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9184abfb9b20728a0800000000000000
+      internalID: -6330087754437081063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_128
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d9295a55ac24500800000000000000
+      internalID: 379087787851423062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_129
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fb88071402bd3a0800000000000000
+      internalID: -6639677760194691184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_130
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 18
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547673267a14d1c20800000000000000
+      internalID: 3178769099156580165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_137
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b4272296f3c4c10800000000000000
+      internalID: 2039074452074023837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_138
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65d01913aa59f1e0800000000000000
+      internalID: -2163598489428109969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_139
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df715e001909ef80800000000000000
+      internalID: -8076914492147925038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_140
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f91aa5e614fe790800000000000000
+      internalID: -7498702912325836938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_141
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfc46310bc953850800000000000000
+      internalID: 6356158729156874170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Goof Troop - Level 1 (1) (2)_142
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53523a4f83dee4830800000000000000
+      internalID: 4057441143185679669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

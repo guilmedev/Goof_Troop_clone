@@ -1,0 +1,4188 @@
+fileFormatVersion: 2
+guid: ecb4b50cf9667a34999fbb050f061b7a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739576521972398734
+    second: Goof_Troop_Level_grass_0
+  - first:
+      213: 1104924697045274955
+    second: Goof_Troop_Level_grass_1
+  - first:
+      213: -1216500575220763875
+    second: Goof_Troop_Level_grass_2
+  - first:
+      213: -8800796415810156197
+    second: Goof_Troop_Level_grass_3
+  - first:
+      213: 6107219583005455877
+    second: Goof_Troop_Level_grass_4
+  - first:
+      213: 1434524696028750303
+    second: Goof_Troop_Level_grass_5
+  - first:
+      213: 8916557813870281716
+    second: Goof_Troop_Level_grass_6
+  - first:
+      213: 6619234036552045775
+    second: Goof_Troop_Level_grass_7
+  - first:
+      213: 2922980287596307691
+    second: Goof_Troop_Level_grass_8
+  - first:
+      213: -7192479837916524399
+    second: Goof_Troop_Level_grass_9
+  - first:
+      213: -462677947981539310
+    second: Goof_Troop_Level_grass_10
+  - first:
+      213: -3442719141377546186
+    second: Goof_Troop_Level_grass_11
+  - first:
+      213: 4205156350457050001
+    second: Goof_Troop_Level_grass_12
+  - first:
+      213: 6449115908088596668
+    second: Goof_Troop_Level_grass_13
+  - first:
+      213: 3462033882226956319
+    second: Goof_Troop_Level_grass_14
+  - first:
+      213: -47104736660116511
+    second: Goof_Troop_Level_grass_15
+  - first:
+      213: 5910600983124392126
+    second: Goof_Troop_Level_grass_16
+  - first:
+      213: 7714962316089262060
+    second: Goof_Troop_Level_grass_17
+  - first:
+      213: 3378356018994114939
+    second: Goof_Troop_Level_grass_18
+  - first:
+      213: 3858198927275859889
+    second: Goof_Troop_Level_grass_19
+  - first:
+      213: -1133441695051906720
+    second: Goof_Troop_Level_grass_20
+  - first:
+      213: -2641917168676554198
+    second: Goof_Troop_Level_grass_21
+  - first:
+      213: 131545814414984786
+    second: Goof_Troop_Level_grass_22
+  - first:
+      213: 3374093588084134324
+    second: Goof_Troop_Level_grass_23
+  - first:
+      213: -6031117052510639174
+    second: Goof_Troop_Level_grass_24
+  - first:
+      213: 6083501326173562242
+    second: Goof_Troop_Level_grass_25
+  - first:
+      213: -7468351853326194780
+    second: Goof_Troop_Level_grass_26
+  - first:
+      213: -7425727684312122614
+    second: Goof_Troop_Level_grass_27
+  - first:
+      213: -7849367135924595627
+    second: Goof_Troop_Level_grass_28
+  - first:
+      213: 1947691421909685059
+    second: Goof_Troop_Level_grass_29
+  - first:
+      213: 5022125047599412620
+    second: Goof_Troop_Level_grass_30
+  - first:
+      213: 6073376390944931675
+    second: Goof_Troop_Level_grass_31
+  - first:
+      213: -1757484294781052099
+    second: Goof_Troop_Level_grass_32
+  - first:
+      213: 2117362281350996120
+    second: Goof_Troop_Level_grass_33
+  - first:
+      213: 7480828042213465668
+    second: Goof_Troop_Level_grass_34
+  - first:
+      213: 1050318680675352506
+    second: Goof_Troop_Level_grass_35
+  - first:
+      213: 722775588498636688
+    second: Goof_Troop_Level_grass_36
+  - first:
+      213: -8718599957420738783
+    second: Goof_Troop_Level_grass_37
+  - first:
+      213: 5691544569122522485
+    second: Goof_Troop_Level_grass_38
+  - first:
+      213: 2119056362112671315
+    second: Goof_Troop_Level_grass_39
+  - first:
+      213: 3656044005776615320
+    second: Goof_Troop_Level_grass_40
+  - first:
+      213: -7109730194987164712
+    second: Goof_Troop_Level_grass_41
+  - first:
+      213: -4684136697812905650
+    second: Goof_Troop_Level_grass_42
+  - first:
+      213: 3112743466390072143
+    second: Goof_Troop_Level_grass_43
+  - first:
+      213: -1159429656841555297
+    second: Goof_Troop_Level_grass_44
+  - first:
+      213: -411592788010809652
+    second: Goof_Troop_Level_grass_45
+  - first:
+      213: 2019534268133567118
+    second: Goof_Troop_Level_grass_46
+  - first:
+      213: -4322395496868973103
+    second: Goof_Troop_Level_grass_47
+  - first:
+      213: 2741913672746192167
+    second: Goof_Troop_Level_grass_48
+  - first:
+      213: 4009649190149089778
+    second: Goof_Troop_Level_grass_49
+  - first:
+      213: 7884366528339261632
+    second: Goof_Troop_Level_grass_50
+  - first:
+      213: -9062416493204684728
+    second: Goof_Troop_Level_grass_51
+  - first:
+      213: -4910191777573796830
+    second: Goof_Troop_Level_grass_52
+  - first:
+      213: -2211168671715430837
+    second: Goof_Troop_Level_grass_53
+  - first:
+      213: 7918929618585663262
+    second: Goof_Troop_Level_grass_54
+  - first:
+      213: 1477945797526561729
+    second: Goof_Troop_Level_grass_55
+  - first:
+      213: 3605551066950768665
+    second: Goof_Troop_Level_grass_56
+  - first:
+      213: -5754379970153961219
+    second: Goof_Troop_Level_grass_57
+  - first:
+      213: -8678991543408900753
+    second: Goof_Troop_Level_grass_58
+  - first:
+      213: 874745109063904997
+    second: Goof_Troop_Level_grass_59
+  - first:
+      213: -2375715904433732255
+    second: Goof_Troop_Level_grass_60
+  - first:
+      213: 717292444934517767
+    second: Goof_Troop_Level_grass_61
+  - first:
+      213: -2800233686663563139
+    second: Goof_Troop_Level_grass_62
+  - first:
+      213: 5933539310343888838
+    second: Goof_Troop_Level_grass_63
+  - first:
+      213: -3594200756935746141
+    second: Goof_Troop_Level_grass_64
+  - first:
+      213: 3372841598005561139
+    second: Goof_Troop_Level_grass_65
+  - first:
+      213: -4837047609554998074
+    second: Goof_Troop_Level_grass_66
+  - first:
+      213: 8019606517604852685
+    second: Goof_Troop_Level_grass_67
+  - first:
+      213: 611493543736671208
+    second: Goof_Troop_Level_grass_68
+  - first:
+      213: -7785512782559397034
+    second: Goof_Troop_Level_grass_69
+  - first:
+      213: 853731349887109302
+    second: Goof_Troop_Level_grass_70
+  - first:
+      213: -7815808172746415754
+    second: Goof_Troop_Level_grass_71
+  - first:
+      213: 49590084123889998
+    second: Goof_Troop_Level_grass_72
+  - first:
+      213: -5115147131769216547
+    second: Goof_Troop_Level_grass_73
+  - first:
+      213: 1426926071866909625
+    second: Goof_Troop_Level_grass_74
+  - first:
+      213: -6997941113991161606
+    second: Goof_Troop_Level_grass_75
+  - first:
+      213: -4842791866203306354
+    second: Goof_Troop_Level_grass_76
+  - first:
+      213: 9180639037126152874
+    second: Goof_Troop_Level_grass_77
+  - first:
+      213: 2946726852016547376
+    second: Goof_Troop_Level_grass_78
+  - first:
+      213: 6547357986958533130
+    second: Goof_Troop_Level_grass_79
+  - first:
+      213: -3491717809700191964
+    second: Goof_Troop_Level_grass_80
+  - first:
+      213: 3846123476144610830
+    second: Goof_Troop_Level_grass_81
+  - first:
+      213: 2835970354264479187
+    second: Goof_Troop_Level_grass_82
+  - first:
+      213: -5272552226859109032
+    second: Goof_Troop_Level_grass_83
+  - first:
+      213: 9102532281710795820
+    second: Goof_Troop_Level_grass_84
+  - first:
+      213: 805384431589136701
+    second: Goof_Troop_Level_grass_85
+  - first:
+      213: -4421910082658162185
+    second: Goof_Troop_Level_grass_86
+  - first:
+      213: -4884656238822091704
+    second: Goof_Troop_Level_grass_87
+  - first:
+      213: -85884616022024392
+    second: Goof_Troop_Level_grass_88
+  - first:
+      213: -4666914777330426063
+    second: Goof_Troop_Level_grass_89
+  - first:
+      213: -120236304080063602
+    second: Goof_Troop_Level_grass_90
+  - first:
+      213: -2411095371744431167
+    second: Goof_Troop_Level_grass_91
+  - first:
+      213: -1106840869268566868
+    second: Goof_Troop_Level_grass_92
+  - first:
+      213: 5382339129381834386
+    second: Goof_Troop_Level_grass_93
+  - first:
+      213: -7920211661022153439
+    second: Goof_Troop_Level_grass_94
+  - first:
+      213: 8293083334630608605
+    second: Goof_Troop_Level_grass_95
+  - first:
+      213: -2739024279677198963
+    second: Goof_Troop_Level_grass_96
+  - first:
+      213: 7255973581660871120
+    second: Goof_Troop_Level_grass_97
+  - first:
+      213: -6245617878888100428
+    second: Goof_Troop_Level_grass_98
+  - first:
+      213: -842836258632446376
+    second: Goof_Troop_Level_grass_99
+  - first:
+      213: -7664883509036014560
+    second: Goof_Troop_Level_grass_100
+  - first:
+      213: -6045301387117808444
+    second: Goof_Troop_Level_grass_101
+  - first:
+      213: -2881627072516900498
+    second: Goof_Troop_Level_grass_102
+  - first:
+      213: 5810045055081283110
+    second: Goof_Troop_Level_grass_103
+  - first:
+      213: 728923373212678712
+    second: Goof_Troop_Level_grass_104
+  - first:
+      213: -8151260552120225031
+    second: Goof_Troop_Level_grass_105
+  - first:
+      213: -3499356304584649840
+    second: Goof_Troop_Level_grass_106
+  - first:
+      213: -2417504262693713713
+    second: Goof_Troop_Level_grass_107
+  - first:
+      213: -6407211136260505821
+    second: Goof_Troop_Level_grass_108
+  - first:
+      213: -5199077384113445238
+    second: Goof_Troop_Level_grass_109
+  - first:
+      213: -6589217627217493234
+    second: Goof_Troop_Level_grass_110
+  - first:
+      213: -8476080354036106558
+    second: Goof_Troop_Level_grass_111
+  - first:
+      213: -1215423741273732420
+    second: Goof_Troop_Level_grass_112
+  - first:
+      213: 2093279525093196730
+    second: Goof_Troop_Level_grass_113
+  - first:
+      213: -1552043980178460957
+    second: Goof_Troop_Level_grass_114
+  - first:
+      213: -133466671584755302
+    second: Goof_Troop_Level_grass_115
+  - first:
+      213: -285311314207846817
+    second: Goof_Troop_Level_grass_116
+  - first:
+      213: -892182185845633311
+    second: Goof_Troop_Level_grass_117
+  - first:
+      213: -6465841636320318688
+    second: Goof_Troop_Level_grass_118
+  - first:
+      213: -6985759207658411592
+    second: Goof_Troop_Level_grass_119
+  - first:
+      213: 89539017415266600
+    second: Goof_Troop_Level_grass_120
+  - first:
+      213: -3076315866583154335
+    second: Goof_Troop_Level_grass_121
+  - first:
+      213: -1666773362592786213
+    second: Goof_Troop_Level_grass_122
+  - first:
+      213: 3798990078164645991
+    second: Goof_Troop_Level_grass_123
+  - first:
+      213: 4575169544453984351
+    second: Goof_Troop_Level_grass_124
+  - first:
+      213: -3608120281736800288
+    second: Goof_Troop_Level_grass_125
+  - first:
+      213: -1852435731027432115
+    second: Goof_Troop_Level_grass_126
+  - first:
+      213: 7026565629594293589
+    second: Goof_Troop_Level_grass_127
+  - first:
+      213: 8173597232433718558
+    second: Goof_Troop_Level_grass_128
+  - first:
+      213: 3942368885481607458
+    second: Goof_Troop_Level_grass_129
+  - first:
+      213: -4349469063902484647
+    second: Goof_Troop_Level_grass_130
+  - first:
+      213: 2058546854370850284
+    second: Goof_Troop_Level_grass_131
+  - first:
+      213: 1363498796482871250
+    second: Goof_Troop_Level_grass_132
+  - first:
+      213: 6452312960407568681
+    second: Goof_Troop_Level_grass_133
+  - first:
+      213: -5673182277734950318
+    second: Goof_Troop_Level_grass_134
+  - first:
+      213: 5086440628890032692
+    second: Goof_Troop_Level_grass_135
+  - first:
+      213: 4493295255568468768
+    second: Goof_Troop_Level_grass_136
+  - first:
+      213: -956584929520653170
+    second: Goof_Troop_Level_grass_137
+  - first:
+      213: -9153593035826435499
+    second: Goof_Troop_Level_grass_138
+  - first:
+      213: 6958864193068680574
+    second: Goof_Troop_Level_grass_139
+  - first:
+      213: 1439183327266922576
+    second: Goof_Troop_Level_grass_140
+  - first:
+      213: -43094053765539087
+    second: Goof_Troop_Level_grass_141
+  - first:
+      213: 4533243437480874349
+    second: Goof_Troop_Level_grass_142
+  - first:
+      213: 2408057226881578832
+    second: Goof_Troop_Level_grass_143
+  - first:
+      213: 8113898525515972954
+    second: Goof_Troop_Level_grass_144
+  - first:
+      213: -5095750979185319773
+    second: Goof_Troop_Level_grass_145
+  - first:
+      213: 1722895634514057443
+    second: Goof_Troop_Level_grass_146
+  - first:
+      213: -6830963164493229808
+    second: Goof_Troop_Level_grass_147
+  - first:
+      213: 3617621557234204484
+    second: Goof_Troop_Level_grass_148
+  - first:
+      213: 8570721026306549256
+    second: Goof_Troop_Level_grass_149
+  - first:
+      213: -3710891238470546756
+    second: Goof_Troop_Level_grass_150
+  - first:
+      213: 759539951070147239
+    second: Goof_Troop_Level_grass_151
+  - first:
+      213: -9014530145868139460
+    second: Goof_Troop_Level_grass_152
+  - first:
+      213: -7463336458943333817
+    second: Goof_Troop_Level_grass_153
+  - first:
+      213: -6776393294014798719
+    second: Goof_Troop_Level_grass_154
+  - first:
+      213: -2612124927433748722
+    second: Goof_Troop_Level_grass_155
+  - first:
+      213: -1122003471370148588
+    second: Goof_Troop_Level_grass_156
+  - first:
+      213: 754127893866070364
+    second: Goof_Troop_Level_grass_157
+  - first:
+      213: -2473385861102934333
+    second: Goof_Troop_Level_grass_158
+  - first:
+      213: -1623018977662316309
+    second: Goof_Troop_Level_grass_159
+  - first:
+      213: -729677772225625046
+    second: Goof_Troop_Level_grass_160
+  - first:
+      213: -3692869922793105708
+    second: Goof_Troop_Level_grass_161
+  - first:
+      213: 7504387584631801876
+    second: Goof_Troop_Level_grass_162
+  - first:
+      213: -8452672314848581680
+    second: Goof_Troop_Level_grass_163
+  - first:
+      213: 907830938216431092
+    second: Goof_Troop_Level_grass_164
+  - first:
+      213: 4493038906085027255
+    second: Goof_Troop_Level_grass_165
+  - first:
+      213: -8911043832674472825
+    second: Goof_Troop_Level_grass_166
+  - first:
+      213: -3913184617313670097
+    second: Goof_Troop_Level_grass_167
+  - first:
+      213: -8530736524890149781
+    second: Goof_Troop_Level_grass_168
+  - first:
+      213: 8317882091171147527
+    second: Goof_Troop_Level_grass_169
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a3ab09329c78d50800000000000000
+      internalID: 6739576521972398734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4190f6682b755f00800000000000000
+      internalID: 1104924697045274955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1378e01c2f1e1fe0800000000000000
+      internalID: -1216500575220763875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ca17d94a4dd580800000000000000
+      internalID: -8800796415810156197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50679527ad331c450800000000000000
+      internalID: 6107219583005455877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1a1505c9478e310800000000000000
+      internalID: 1434524696028750303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c8faf61afdbb70800000000000000
+      internalID: 8916557813870281716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc41cd9394e3cdb50800000000000000
+      internalID: 6619234036552045775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4a5afb513809820800000000000000
+      internalID: 2922980287596307691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19093ded1bd2f2c90800000000000000
+      internalID: -7192479837916524399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21857219bdc3499f0800000000000000
+      internalID: -462677947981539310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_11
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638e0c46e210930d0800000000000000
+      internalID: -3442719141377546186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19378fdbb67bb5a30800000000000000
+      internalID: 4205156350457050001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb801f0efbcdf7950800000000000000
+      internalID: 6449115908088596668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f181186297d9b0030800000000000000
+      internalID: 3462033882226956319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_15
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eba228dd76a85ff0800000000000000
+      internalID: -47104736660116511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_16
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb83438474ca60250800000000000000
+      internalID: 5910600983124392126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_17
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef7602d95d011b60800000000000000
+      internalID: 7714962316089262060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7172f466e452ee20800000000000000
+      internalID: 3378356018994114939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_19
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf12159b731b8530800000000000000
+      internalID: 3858198927275859889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06180d898c43540f0800000000000000
+      internalID: -1133441695051906720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a37032556065bd0800000000000000
+      internalID: -2641917168676554198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_22
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25605e3a83853d100800000000000000
+      internalID: 131545814414984786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_23
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b19dacdd3033de20800000000000000
+      internalID: 3374093588084134324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb6d46befa2d4ca0800000000000000
+      internalID: -6031117052510639174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28561317930fc6450800000000000000
+      internalID: 6083501326173562242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_26
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7acd4fe851b5890800000000000000
+      internalID: -7468351853326194780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bbac9a30482f890800000000000000
+      internalID: -7425727684312122614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_28
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554d6977d22711390800000000000000
+      internalID: -7849367135924595627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_29
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34390076707970b10800000000000000
+      internalID: 1947691421909685059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8531c75f1c22b540800000000000000
+      internalID: 5022125047599412620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_31
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f348146a7f84450800000000000000
+      internalID: 6073376390944931675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_32
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b5f3f68592c97e0800000000000000
+      internalID: -1757484294781052099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_33
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890acb0d6c1626d10800000000000000
+      internalID: 2117362281350996120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_34
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1ae1287d31d760800000000000000
+      internalID: 7480828042213465668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf7c96764b739e00800000000000000
+      internalID: 1050318680675352506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ff8cc7190d70a00800000000000000
+      internalID: 722775588498636688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1277337288f410780800000000000000
+      internalID: -8718599957420738783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5750ad961ad6cfe40800000000000000
+      internalID: 5691544569122522485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_39
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed1cab886686d10800000000000000
+      internalID: 2119056362112671315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897e28717a0ecb230800000000000000
+      internalID: 3656044005776615320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_41
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbdbee7e0a255d90800000000000000
+      internalID: -7109730194987164712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419d7fad7a9efeb0800000000000000
+      internalID: -4684136697812905650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b291fc0bfa23b20800000000000000
+      internalID: 3112743466390072143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_44
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92f7e9bed0e8efe0800000000000000
+      internalID: -1159429656841555297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_45
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6c08e3a8ab94af0800000000000000
+      internalID: -411592788010809652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_46
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a64d787b3d60c10800000000000000
+      internalID: 2019534268133567118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d570665234c304c0800000000000000
+      internalID: -4322395496868973103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_48
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dc2d445fb3d0620800000000000000
+      internalID: 2741913672746192167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9e4c4c1b225a730800000000000000
+      internalID: 4009649190149089778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c834a89595ea6d60800000000000000
+      internalID: 7884366528339261632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840c4e3d634db3280800000000000000
+      internalID: -9062416493204684728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_52
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248ba6f79e7bdbb0800000000000000
+      internalID: -4910191777573796830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_53
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4eedefeec95051e0800000000000000
+      internalID: -2211168671715430837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_54
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e173e152880b5ed60800000000000000
+      internalID: 7918929618585663262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_55
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c32ad25fd7b28410800000000000000
+      internalID: 1477945797526561729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_56
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9189125a79d790230800000000000000
+      internalID: 3605551066950768665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_57
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8a958b7e55420b0800000000000000
+      internalID: -5754379970153961219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_58
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f654e7eac270e8780800000000000000
+      internalID: -8678991543408900753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_59
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eea3c6ca08b32c00800000000000000
+      internalID: 874745109063904997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1654bf4d8f2c70fd0800000000000000
+      internalID: -2375715904433732255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704b464ada554f900800000000000000
+      internalID: 717292444934517767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_62
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f55a5c429329d0800000000000000
+      internalID: -2800233686663563139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_63
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf1dd5c09a285250800000000000000
+      internalID: 5933539310343888838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_64
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad97675475de1ec0800000000000000
+      internalID: -3594200756935746141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_65
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33748c4309dbece20800000000000000
+      internalID: 3372841598005561139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_66
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc62dea3da5fdcb0800000000000000
+      internalID: -4837047609554998074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_67
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ae3853ad5b4f60800000000000000
+      internalID: 8019606517604852685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_68
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb7ed063267c7800800000000000000
+      internalID: 611493543736671208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_69
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb849af5d44f390800000000000000
+      internalID: -7785512782559397034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8c2a3b32019db00800000000000000
+      internalID: 853731349887109302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_71
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671ead670eba88390800000000000000
+      internalID: -7815808172746415754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_72
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4116943bed20b000800000000000000
+      internalID: 49590084123889998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_73
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1a90de8c85309b0800000000000000
+      internalID: -5115147131769216547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_74
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3ee52c3b57dc310800000000000000
+      internalID: 1426926071866909625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8947d22a152ee90800000000000000
+      internalID: -6997941113991161606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_76
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e860dc5b472faccb0800000000000000
+      internalID: -4842791866203306354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_77
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa21dfa209e286f70800000000000000
+      internalID: 9180639037126152874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_78
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0362d80a570e4e820800000000000000
+      internalID: 2946726852016547376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_79
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02eaf55663ecda50800000000000000
+      internalID: 6547357986958533130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4214ae8e62dea8fc0800000000000000
+      internalID: -3491717809700191964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_81
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ed3e58cec206530800000000000000
+      internalID: 3846123476144610830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_82
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51977f2046b5720800000000000000
+      internalID: 2835970354264479187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_83
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8553e525fa124d6b0800000000000000
+      internalID: -5272552226859109032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_84
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cd5e702e0b25e70800000000000000
+      internalID: 9102532281710795820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_85
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3910889fdc4d2b00800000000000000
+      internalID: 805384431589136701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_86
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f92176453832a2c0800000000000000
+      internalID: -4421910082658162185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_87
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8441d13e707363cb0800000000000000
+      internalID: -4884656238822091704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_88
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f16529560eecef0800000000000000
+      internalID: -85884616022024392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_89
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fd2348cb9cb3fb0800000000000000
+      internalID: -4666914777330426063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_90
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e83b33ee7b5d45ef0800000000000000
+      internalID: -120236304080063602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_91
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3b59fa8811a8ed0800000000000000
+      internalID: -2411095371744431167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_92
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caccc5cf716b3a0f0800000000000000
+      internalID: -1106840869268566868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_93
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e4d7bdbe8e1ba40800000000000000
+      internalID: 5382339129381834386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_94
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1253ed61571c51290800000000000000
+      internalID: -7920211661022153439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_95
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde8e5daa53f61370800000000000000
+      internalID: 8293083334630608605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_96
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9baafde70df9d0800000000000000
+      internalID: -2739024279677198963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_97
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9d38a578562b460800000000000000
+      internalID: 7255973581660871120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_98
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdcb0e31ab1359a0800000000000000
+      internalID: -6245617878888100428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_99
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 122
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ec46863e4ad44f0800000000000000
+      internalID: -842836258632446376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_100
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024a82f0f0dd0a590800000000000000
+      internalID: -7664883509036014560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4baa4fa66ca1ca0800000000000000
+      internalID: -6045301387117808444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_102
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e693b7fe1776208d0800000000000000
+      internalID: -2881627072516900498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_103
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e7225d13d61a050800000000000000
+      internalID: 5810045055081283110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_104
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a32d822f7ad1a00800000000000000
+      internalID: 728923373212678712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_105
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2383f07b7e0ee80800000000000000
+      internalID: -8151260552120225031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_106
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09355ba3bf9cf6fc0800000000000000
+      internalID: -3499356304584649840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8062b7eac437ed0800000000000000
+      internalID: -2417504262693713713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_108
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff34e1b630517a0800000000000000
+      internalID: -6407211136260505821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_109
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86a6204aaa29d7b0800000000000000
+      internalID: -5199077384113445238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_110
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0385fdaa756e84a0800000000000000
+      internalID: -6589217627217493234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_111
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cab20283d9ee5a80800000000000000
+      internalID: -8476080354036106558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_112
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8dc10c82f12fe0800000000000000
+      internalID: -1215423741273732420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_113
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab347cc23a2dc0d10800000000000000
+      internalID: 2093279525093196730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeedad1938067ae0800000000000000
+      internalID: -1552043980178460957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_115
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9146d2f4c4d52ef0800000000000000
+      internalID: -133466671584755302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_116
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ecd321fde5a0cf0800000000000000
+      internalID: -285311314207846817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_117
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee4db967055e93f0800000000000000
+      internalID: -892182185845633311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_118
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b623d0a47b446a0800000000000000
+      internalID: -6465841636320318688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_119
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b92b1543099d0f90800000000000000
+      internalID: -6985759207658411592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821139e034b1e3100800000000000000
+      internalID: 89539017415266600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_121
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161c963b40bbe45d0800000000000000
+      internalID: -3076315866583154335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_122
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8d299257e6ed8e0800000000000000
+      internalID: -1666773362592786213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_123
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768bc322959b8b430800000000000000
+      internalID: 3798990078164645991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_124
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f509d5cd5744e7f30800000000000000
+      internalID: 4575169544453984351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_125
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7123c68b16dedc0800000000000000
+      internalID: -3608120281736800288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d6eda6483da46e0800000000000000
+      internalID: -1852435731027432115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_127
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555dfe63630638160800000000000000
+      internalID: 7026565629594293589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_128
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15e35890637e6170800000000000000
+      internalID: 8173597232433718558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_129
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2211fa02d9b16b630800000000000000
+      internalID: 3942368885481607458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957aa8c4ee493a3c0800000000000000
+      internalID: -4349469063902484647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_131
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5b548157d619c10800000000000000
+      internalID: 2058546854370850284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_132
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dfb8086eee1ce210800000000000000
+      internalID: 1363498796482871250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_133
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9210eb0a3783b8950800000000000000
+      internalID: 6452312960407568681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_134
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a1195b6cec441b0800000000000000
+      internalID: -5673182277734950318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_135
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ada188dcaa69640800000000000000
+      internalID: 5086440628890032692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_136
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b4b1b7a346b5e30800000000000000
+      internalID: 4493295255568468768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_137
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ced66231789b2f0800000000000000
+      internalID: -956584929520653170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_138
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6319b1a7e7f080800000000000000
+      internalID: -9153593035826435499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_139
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e754b0c2d1ad29060800000000000000
+      internalID: 6958864193068680574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e86c6c9109f310800000000000000
+      internalID: 1439183327266922576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_141
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa9f59bf26e66ff0800000000000000
+      internalID: -43094053765539087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_142
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d611b6363e059ee30800000000000000
+      internalID: 4533243437480874349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_143
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057b6171a432b6120800000000000000
+      internalID: 2408057226881578832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_144
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5102fc38bb5a9070800000000000000
+      internalID: 8113898525515972954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_145
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a06fcd9b714849b0800000000000000
+      internalID: -5095750979185319773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_146
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e818488374f8e710800000000000000
+      internalID: 1722895634514057443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_147
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0115a92a13b8331a0800000000000000
+      internalID: -6830963164493229808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_148
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7dbaa3af543230800000000000000
+      internalID: 3617621557234204484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_149
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 37
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80629f12d5151f670800000000000000
+      internalID: 8570721026306549256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_150
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba8ada6414408cc0800000000000000
+      internalID: -3710891238470546756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2f040bf8d6a8a00800000000000000
+      internalID: 759539951070147239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_152
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34ba76e794f5e280800000000000000
+      internalID: -9014530145868139460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_153
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af5757807ec6890800000000000000
+      internalID: -7463336458943333817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_154
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184a8e3b33a65f1a0800000000000000
+      internalID: -6776393294014798719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f4e57d73edfbbd0800000000000000
+      internalID: -2612124927433748722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_156
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4152a3499c7dd60f0800000000000000
+      internalID: -1122003471370148588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_157
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c91de253377a00800000000000000
+      internalID: 754127893866070364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_158
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c66c74f9a4ccadd0800000000000000
+      internalID: -2473385861102934333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_159
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be058b4c6d0e979e0800000000000000
+      internalID: -1623018977662316309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_160
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a244ef1aee9afd5f0800000000000000
+      internalID: -729677772225625046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_161
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d65132fe5a40ccc0800000000000000
+      internalID: -3692869922793105708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_162
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41884de8fb0f42860800000000000000
+      internalID: 7504387584631801876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_163
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7eba6505312ba80800000000000000
+      internalID: -8452672314848581680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_164
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdff7cad63499c00800000000000000
+      internalID: 907830938216431092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_165
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd2537741b7a5e30800000000000000
+      internalID: 4493038906085027255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_166
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ca08fc8dc955480800000000000000
+      internalID: -8911043832674472825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_167
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cee70d25391b9c0800000000000000
+      internalID: -3913184617313670097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_168
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce871145cbc9980800000000000000
+      internalID: -8530736524890149781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Level_grass_169
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fe6df11bd0f6370800000000000000
+      internalID: 8317882091171147527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
