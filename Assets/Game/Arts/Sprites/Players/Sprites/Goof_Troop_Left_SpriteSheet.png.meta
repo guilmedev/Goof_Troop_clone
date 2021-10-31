@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: d22b09f83a47e3c4488fb538334bb25d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7857281104873747950
+    second: Goof_Troop_Left_SpriteSheet_0
+  - first:
+      213: -6061981471577094800
+    second: Goof_Troop_Left_SpriteSheet_1
+  - first:
+      213: -2570940210142204448
+    second: Goof_Troop_Left_SpriteSheet_2
+  - first:
+      213: 8735554583101043832
+    second: Goof_Troop_Left_SpriteSheet_3
+  - first:
+      213: 7433148255675056720
+    second: Goof_Troop_Left_SpriteSheet_4
+  - first:
+      213: -5708461046973923572
+    second: Goof_Troop_Left_SpriteSheet_5
+  - first:
+      213: 2906014320525796964
+    second: Goof_Troop_Left_SpriteSheet_6
+  - first:
+      213: 1292176105216514148
+    second: Goof_Troop_Left_SpriteSheet_7
+  - first:
+      213: -2773216211354441578
+    second: Goof_Troop_Left_SpriteSheet_8
+  - first:
+      213: -4486344446809275364
+    second: Goof_Troop_Left_SpriteSheet_9
+  - first:
+      213: -6349959641641459224
+    second: Goof_Troop_Left_SpriteSheet_10
+  - first:
+      213: -4130340485110144336
+    second: Goof_Troop_Left_SpriteSheet_11
+  - first:
+      213: -148512344736516625
+    second: Goof_Troop_Left_SpriteSheet_12
+  - first:
+      213: 3055533717268922582
+    second: Goof_Troop_Left_SpriteSheet_13
+  - first:
+      213: -1503029471631994107
+    second: Goof_Troop_Left_SpriteSheet_14
+  - first:
+      213: 7878354441991364897
+    second: Goof_Troop_Left_SpriteSheet_15
+  - first:
+      213: 639353678395828446
+    second: Goof_Troop_Left_SpriteSheet_16
+  - first:
+      213: -8784176211311786935
+    second: Goof_Troop_Left_SpriteSheet_17
+  - first:
+      213: 8822098900287164921
+    second: Goof_Troop_Left_SpriteSheet_18
+  - first:
+      213: -2899891207031133549
+    second: Goof_Troop_Left_SpriteSheet_19
+  - first:
+      213: 7281974771235689071
+    second: Goof_Troop_Left_SpriteSheet_20
+  - first:
+      213: -6945372276841919951
+    second: Goof_Troop_Left_SpriteSheet_21
+  - first:
+      213: 5505714398246778213
+    second: Goof_Troop_Left_SpriteSheet_22
+  - first:
+      213: -5707378591490765733
+    second: Goof_Troop_Left_SpriteSheet_23
+  - first:
+      213: -4119224961515896640
+    second: Goof_Troop_Left_SpriteSheet_24
+  - first:
+      213: -685392195245677329
+    second: Goof_Troop_Left_SpriteSheet_25
+  - first:
+      213: 8952185490885303215
+    second: Goof_Troop_Left_SpriteSheet_26
+  - first:
+      213: 3194207871922877253
+    second: Goof_Troop_Left_SpriteSheet_27
+  - first:
+      213: -3158978782199165133
+    second: Goof_Troop_Left_SpriteSheet_28
+  - first:
+      213: 855505732424491803
+    second: Goof_Troop_Left_SpriteSheet_29
+  - first:
+      213: -1362827139694414265
+    second: Goof_Troop_Left_SpriteSheet_30
+  - first:
+      213: -3861680068818374560
+    second: Goof_Troop_Left_SpriteSheet_31
+  - first:
+      213: -2071052118768099148
+    second: Goof_Troop_Left_SpriteSheet_32
+  - first:
+      213: -2828993267477735353
+    second: Goof_Troop_Left_SpriteSheet_33
+  - first:
+      213: -8431130676393135624
+    second: Goof_Troop_Left_SpriteSheet_34
+  - first:
+      213: -8415581482155491875
+    second: Goof_Troop_Left_SpriteSheet_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 164
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a8c9bf67455f290800000000000000
+      internalID: -7857281104873747950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 164
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075c5a728f38fdba0800000000000000
+      internalID: -6061981471577094800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 164
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eda4b3108f225cd0800000000000000
+      internalID: -2570940210142204448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 164
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874f5c14c9cea3970800000000000000
+      internalID: 8735554583101043832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 164
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052835eb4f8d72760800000000000000
+      internalID: 7433148255675056720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 164
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff6f82ce877c0b0800000000000000
+      internalID: -5708461046973923572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 164
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4666327b0ac345820800000000000000
+      internalID: 2906014320525796964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 125
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4689daa425bbee110800000000000000
+      internalID: 1292176105216514148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 125
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6982dd48c8e8389d0800000000000000
+      internalID: -2773216211354441578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 125
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1403ebce7d4db1c0800000000000000
+      internalID: -4486344446809275364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 125
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1e4e5795960e7a0800000000000000
+      internalID: -6349959641641459224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 125
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2689756351ea6c0800000000000000
+      internalID: -4130340485110144336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 125
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5383f2fc060fdf0800000000000000
+      internalID: -148512344736516625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 126
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d00b091abf676a20800000000000000
+      internalID: 3055533717268922582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 126
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5039e60b8aa242be0800000000000000
+      internalID: -1503029471631994107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 125
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212489af99855d60800000000000000
+      internalID: 7878354441991364897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 125
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed86f9678c07fd800800000000000000
+      internalID: 639353678395828446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 129
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9440350c646581680800000000000000
+      internalID: -8784176211311786935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 88
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f11bf455346e6a70800000000000000
+      internalID: 8822098900287164921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a61adbf4481c7d0800000000000000
+      internalID: -2899891207031133549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 87
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f621cde0975ce0560800000000000000
+      internalID: 7281974771235689071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 86
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13acdfd56b41d9f90800000000000000
+      internalID: -6945372276841919951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 87
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565b04e131a386c40800000000000000
+      internalID: 5505714398246778213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 87
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0687f8615bc0b0800000000000000
+      internalID: -5707378591490765733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 88
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c04cead8b295d6c0800000000000000
+      internalID: -4119224961515896640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 47
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe46e860e6ffc76f0800000000000000
+      internalID: -685392195245677329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 47
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabdf93f54d8c3c70800000000000000
+      internalID: 8952185490885303215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54338b8c22b145c20800000000000000
+      internalID: 3194207871922877253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 46
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fc50ad88d0924d0800000000000000
+      internalID: -3158978782199165133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 46
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13e8745eed5fdb00800000000000000
+      internalID: 855505732424491803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 47
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746b040efe3461de0800000000000000
+      internalID: -1362827139694414265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060ffddff6e886ac0800000000000000
+      internalID: -3861680068818374560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 9
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0e18522152243e0800000000000000
+      internalID: -2071052118768099148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 9
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7489404ac956db8d0800000000000000
+      internalID: -2828993267477735353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 10
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f130b2e15b9efa80800000000000000
+      internalID: -8431130676393135624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goof_Troop_Left_SpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 10
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd34c9ca39d53b80800000000000000
+      internalID: -8415581482155491875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
