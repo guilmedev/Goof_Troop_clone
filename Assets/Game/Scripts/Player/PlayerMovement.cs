@@ -7,6 +7,14 @@ public class PlayerMovement : MonoBehaviour
 {
     private GameActions actions;
 
+    public Action<Vector2> OnPlayerMove;
+
+    [SerializeField]
+    private float _speed;
+
+    public float Speed => _speed;
+    
+
     private void Awake() 
     {
         //Init
@@ -23,7 +31,7 @@ public class PlayerMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        actions.Player.Move.performed += ctx => Move(ctx.ReadValue<Vector2>());
+        // actions.Player.Move.performed += ctx => Move(ctx.ReadValue<Vector2>());
         actions.Player.Fire.performed += ctx => Use();
     }
 
@@ -33,9 +41,8 @@ public class PlayerMovement : MonoBehaviour
         Debug.Log("Use");
     }
 
-    private void Move(Vector2 direction)
+    public Vector2 GetMovement()
     {
-        
-        Debug.Log(direction);
+        return actions.Player.Move.ReadValue<Vector2>();
     }
 }
