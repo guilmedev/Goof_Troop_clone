@@ -801,6 +801,11 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &1474359600 stripped
+BoxCollider2D:
+  m_CorrespondingSourceObject: {fileID: 271298170990460224, guid: b95d9aa8d9fb8d5419585abf0dace8c5, type: 3}
+  m_PrefabInstance: {fileID: 271298170166697844}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1693906016
 GameObject:
   m_ObjectHideFlags: 0
@@ -3463,6 +3468,10 @@ PrefabInstance:
       propertyPath: m_Speed
       value: 8
       objectReference: {fileID: 0}
+    - target: {fileID: 271298170990460237, guid: b95d9aa8d9fb8d5419585abf0dace8c5, type: 3}
+      propertyPath: boxCollider2D
+      value: 
+      objectReference: {fileID: 1474359600}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b95d9aa8d9fb8d5419585abf0dace8c5, type: 3}
 --- !u!1001 &5365461274776884981
@@ -3486,7 +3495,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5365461276226335567, guid: 01aa00100dc003646a7471eb6b6d8b50, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5365461276226335567, guid: 01aa00100dc003646a7471eb6b6d8b50, type: 3}
       propertyPath: m_LocalPosition.z

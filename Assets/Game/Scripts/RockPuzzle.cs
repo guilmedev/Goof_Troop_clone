@@ -24,9 +24,13 @@ public class RockPuzzle : MonoBehaviour, IKickable
 
     private LayerMask colliderLayer;
 
+    private BoxCollider2D[] myColliders;
+
     private void Awake()
     {
         _rigidBody = GetComponent<Rigidbody2D>();
+        //TODO: se não for usar RayCast, pode remover
+        myColliders = GetComponents<BoxCollider2D>();
     }
 
     // Start is called before the first frame update
@@ -50,17 +54,18 @@ public class RockPuzzle : MonoBehaviour, IKickable
         {
             _avaliableKick = true;
             _guest.SetKickReference(this.gameObject);
-        }else
+        }
+        else
         {
             _avaliableKick = false;
-        }        
+        }
     }
 
     private void OnTriggerExit2D(Collider2D other)
     {
         _guest = other.GetComponent<IKickBehaviour>();
         if (_guest != null)
-        {            
+        {
             _avaliableKick = false;
             _guest.SetKickReference(null);
         }
@@ -99,9 +104,50 @@ public class RockPuzzle : MonoBehaviour, IKickable
     {
         if (_avaliableKick)
         {
-            _guest.KickSuccessed();
-            PerfomrKick(direction);
+            if (IsValidDestination(direction))
+            {
+                _guest.KickSuccessed();
+                PerfomrKick(direction);
+            }
+            else
+            {
+                _guest.KickFailed();
+            }
         }
     }
-    
+    private bool IsValidDestination(Vector2 direciton)
+    {
+
+        return true;
+        //TODO:
+        /*
+         - Tentar validar via TileMap (checar se tem collider na posição desejada)
+            RayCast não funcionou pq ele acusa o proprio collider, e se desativar os colliders para fazer o ray,
+            perde a funcionalidade das interfaces e o IKickable perde a referencia por causa do OnTriggerExit
+        */
+
+        // return true;
+
+        // Cast a ray straight down.
+        Vector2 end = (Vector2)transform.position + direciton;
+        foreach (BoxCollider2D colliders in myColliders)
+        {
+            colliders.enabled = false;
+        }
+        RaycastHit2D hit = Physics2D.Raycast(transform.position, direciton, 1.2f);
+
+        foreach (BoxCollider2D colliders in myColliders)
+        {
+            colliders.enabled = true;
+        }
+        
+        if (hit.collider != null)
+        {
+            return true;
+        }
+        else
+        {            
+            return true;
+        }
+    }
 }
