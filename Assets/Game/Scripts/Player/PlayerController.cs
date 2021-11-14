@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 namespace Game.Player
@@ -6,9 +7,11 @@ namespace Game.Player
     [RequireComponent(typeof(Rigidbody2D))]
     public class PlayerController : MonoBehaviour
     {
+        private PlayerMovement _playerMovement;
+        private KickBehaviour _kickBehaviour;
+
         //References
         private Rigidbody2D _rigidbody2D;
-        private PlayerMovement _playerMovement;
         private AnimatorController _animatorController;
         //Getters
         public float PlayerVelocity => _playerMovement.GetMovement().magnitude;
@@ -19,6 +22,7 @@ namespace Game.Player
         private void Awake()
         {
             _playerMovement = GetComponent<PlayerMovement>();
+            _kickBehaviour = GetComponent<KickBehaviour>();
             _rigidbody2D = GetComponent<Rigidbody2D>();
             _animatorController = GetComponentInChildren<AnimatorController>();
         }
@@ -30,19 +34,16 @@ namespace Game.Player
         private void OnEnable()
         {
             _playerMovement.OnPlayerClick += OnPlayerkick;
+            _kickBehaviour.onKickSuccess += OnKickSuccess;
+            _kickBehaviour.onKickFail += OnKickFail;
         }
+
 
         void OnDisable()
         {
             _playerMovement.OnPlayerClick -= OnPlayerkick;
-        }
-
-        private void OnPlayerkick()
-        {
-            Debug.Log("Kick in " + _idleDirection);
-
-            _animatorController.KickAnim();
-
+            _kickBehaviour.onKickSuccess -= OnKickSuccess;
+            _kickBehaviour.onKickFail -= OnKickFail;
         }
 
         private void FixedUpdate()
@@ -54,6 +55,22 @@ namespace Game.Player
             }
             _rigidbody2D.velocity = _playerMovement.GetMovement() * _playerMovement.Speed;
         }
+
+        #region CallBacks
+        private void OnPlayerkick()
+        {
+            _kickBehaviour.DoKick(IdleDirection);
+        }
+        private void OnKickSuccess()
+        {
+            _animatorController.KickAnim();
+        }
+        private void OnKickFail()
+        {
+            Debug.Log("Ouch, kick Fail");
+        }
+
+        #endregion
     }
 
 }
