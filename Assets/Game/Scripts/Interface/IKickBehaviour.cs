@@ -8,6 +8,5 @@ namespace Interfaces
     {
         void KickSuccessed();
         void KickFailed();
-        void SetKickReference(GameObject obj);
     }
 }

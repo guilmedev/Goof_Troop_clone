@@ -1,4 +1,5 @@
 using System;
+using Interfaces;
 using UnityEngine;
 
 namespace Game.Player
@@ -9,6 +10,7 @@ namespace Game.Player
     {
         private PlayerMovement _playerMovement;
         private KickBehaviour _kickBehaviour;
+        private Interactor _interactor;
 
         //References
         private Rigidbody2D _rigidbody2D;
@@ -24,6 +26,8 @@ namespace Game.Player
             _playerMovement = GetComponent<PlayerMovement>();
             _kickBehaviour = GetComponent<KickBehaviour>();
             _rigidbody2D = GetComponent<Rigidbody2D>();
+            _interactor = GetComponent<Interactor>();
+
             _animatorController = GetComponentInChildren<AnimatorController>();
         }
         void Start()
@@ -34,18 +38,20 @@ namespace Game.Player
         private void OnEnable()
         {
             _playerMovement.OnPlayerClick += OnPlayerkick;
-            _kickBehaviour.onKickSuccess += OnKickSuccess;
-            _kickBehaviour.onKickFail += OnKickFail;
+            _kickBehaviour.OnKickSuccess += OnKickSuccess;
+            _kickBehaviour.OnKickFail += OnKickFail;
         }
 
 
         void OnDisable()
         {
             _playerMovement.OnPlayerClick -= OnPlayerkick;
-            _kickBehaviour.onKickSuccess -= OnKickSuccess;
-            _kickBehaviour.onKickFail -= OnKickFail;
+            _kickBehaviour.OnKickSuccess -= OnKickSuccess;
+            _kickBehaviour.OnKickFail -= OnKickFail;
         }
 
+        [SerializeField]
+        private GameObject _gameObject;
         private void FixedUpdate()
         {
             //TODO: verify glith when stops
@@ -59,7 +65,14 @@ namespace Game.Player
         #region CallBacks
         private void OnPlayerkick()
         {
-            _kickBehaviour.DoKick(IdleDirection);
+            Vector2 position = ((Vector2)this.transform.position - new Vector2(0, .5f));
+            
+            GameObject interactable;
+
+            if (_interactor.Interact(position, _idleDirection, out interactable))
+            {
+                _kickBehaviour.DoKick(_idleDirection, interactable);
+            }
         }
         private void OnKickSuccess()
         {

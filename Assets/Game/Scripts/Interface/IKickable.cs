@@ -6,6 +6,6 @@ namespace Interfaces
 {
     public interface IKickable
     {
-        void Kick(Vector2 direciton);
+        void Kick(Vector2 direciton, IKickBehaviour kickGuest);
     }
 }

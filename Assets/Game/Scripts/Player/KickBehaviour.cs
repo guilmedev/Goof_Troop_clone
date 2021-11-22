@@ -8,31 +8,24 @@ using UnityEngine;
 public class KickBehaviour : MonoBehaviour , IKickBehaviour
 {
 
-    public Action onKickSuccess;
-    public Action onKickFail;
+    public Action OnKickSuccess;
+    public Action OnKickFail;
 
-    private GameObject _kickableObject;
-
-    public void DoKick(Vector2 direction)
-    {
-        if (_kickableObject != null)
+    public void DoKick(Vector2 direction, GameObject kickableObject)
+    {        
+        if (kickableObject != null)
         {
-            _kickableObject.GetComponent<IKickable>().Kick(direction);
+            kickableObject.GetComponent<IKickable>().Kick(direction, this);
         }
     }
 
     public void KickFailed()
     {
-        onKickFail?.Invoke();
+        OnKickFail?.Invoke();
     }
 
     public void KickSuccessed()
     {
-        onKickSuccess?.Invoke();
-    }
-
-    public void SetKickReference(GameObject obj)
-    {
-        _kickableObject = obj;
+        OnKickSuccess?.Invoke();
     }
 }
