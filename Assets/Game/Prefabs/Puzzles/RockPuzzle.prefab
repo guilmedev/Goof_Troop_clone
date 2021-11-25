@@ -177,3 +177,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isMoving: 0
   m_Speed: 8
+  colliderLayer:
+    serializedVersion: 2
+    m_Bits: 64

@@ -17,13 +17,9 @@ public class RockPuzzle : MonoBehaviour, IKickable
     [SerializeField]
     private LayerMask colliderLayer;
 
-    private BoxCollider2D[] myColliders;
-
     private void Awake()
     {
         _rigidBody = GetComponent<Rigidbody2D>();
-        //TODO: se não for usar RayCast, pode remover
-        myColliders = GetComponents<BoxCollider2D>();
     }
 
     // Start is called before the first frame update
@@ -50,12 +46,6 @@ public class RockPuzzle : MonoBehaviour, IKickable
             //TODO: other interface full Damage
         }
     }
-
-    public void SetKickReference(GameObject gameObject)
-    {
-        // do nothing   
-    }
-
     private void Stop()
     {
         isMoving = false;
