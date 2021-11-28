@@ -37,10 +37,13 @@ public class RockPuzzle : MonoBehaviour, IKickable
 
     private void OnCollisionEnter2D(Collision2D other)
     {
+
         if (isMoving)
         {
-            if (other.gameObject.layer == colliderLayer)
+            Debug.Log("Colider" + other.gameObject.name);
+            if ( other.gameObject.layer == LayerMask.NameToLayer("Collider"))
             {
+                Debug.Log("Colider");
                 Stop();
             }
             //TODO: other interface full Damage
@@ -50,6 +53,7 @@ public class RockPuzzle : MonoBehaviour, IKickable
     {
         isMoving = false;
         _rigidBody.isKinematic = true;
+        myDirection = Vector2.zero;
     }
 
     private void PerfomrKick(Vector2 kickDirection)
