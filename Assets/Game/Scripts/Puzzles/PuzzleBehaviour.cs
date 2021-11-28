@@ -9,8 +9,8 @@ namespace Puzzles
         //TODO: store inital position        
         private PuzzleSlot[] _slots;
         private RockPuzzle[] _rocks;
-        [SerializeField]
         private Vector3[] _rocksInitalPosition;
+
 
         private void Awake()
         {
@@ -63,10 +63,8 @@ namespace Puzzles
                     return;
                 }
             }
-
             //TODO:
             Debug.Log("Puzlle Completed !");
-            RestartPuzzle();
         }
 
 
