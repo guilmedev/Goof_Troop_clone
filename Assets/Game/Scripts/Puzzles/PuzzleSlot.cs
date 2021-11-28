@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using Interfaces;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace Puzzles
 {
@@ -9,16 +10,25 @@ namespace Puzzles
     [RequireComponent(typeof(Rigidbody2D))]
     public class PuzzleSlot : MonoBehaviour
     {
-        //TODO: call actions for slot changed state
+        [HideInInspector]
+        public UnityEvent OnPuzzleSlotChanged;
+
         private bool _filled;
         public bool Filled => _filled;
 
         [SerializeField]
         private BoxCollider2D _collider;
 
-        private void OnTriggerStay2D(Collider2D other) 
+        private void OnTriggerStay2D(Collider2D other)
         {
-            _filled = other.GetComponent<IKickable>() != null;
+            var _other = other.GetComponent<IKickable>();
+            if (other != null)
+            {
+                if (_filled) return;
+
+                _filled = true;
+                OnPuzzleSlotChanged?.Invoke();
+            }
         }
 
         private void OnTriggerExit2D(Collider2D other)
@@ -26,7 +36,11 @@ namespace Puzzles
             var _other = other.GetComponent<IKickable>();
             if (other != null)
             {
+                if (!_filled) return;
+                
                 _filled = false;
+
+                OnPuzzleSlotChanged?.Invoke();
             }
         }
 
