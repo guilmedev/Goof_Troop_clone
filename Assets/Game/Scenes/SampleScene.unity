@@ -1502,6 +1502,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1195701084}
   - component: {fileID: 1195701085}
+  - component: {fileID: 1195701086}
   m_Layer: 0
   m_Name: RestartPortal
   m_TagString: Untagged
@@ -1533,7 +1534,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -1549,6 +1550,19 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1195701086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1195701083}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd02a3fb4a965bb41912eb7a018992ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _playerSpawnPoint: {fileID: 1912656084}
 --- !u!1001 &1216429198
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4611,6 +4625,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 39405960e58f40b449439a05963eda07, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  OnPuzzleRestarted:
+    m_PersistentCalls:
+      m_Calls: []
+  _puzzleGate: {fileID: 1108361961}
 --- !u!1001 &271298170166697844
 PrefabInstance:
   m_ObjectHideFlags: 0
