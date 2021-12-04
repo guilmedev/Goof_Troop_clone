@@ -1,15 +1,20 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 namespace Puzzles
 {
     public class PuzzleBehaviour : MonoBehaviour
     {
-        //TODO: store inital position        
+        public UnityEvent OnPuzzleRestarted;
+
         private PuzzleSlot[] _slots;
         private RockPuzzle[] _rocks;
         private Vector3[] _rocksInitalPosition;
+
+        [SerializeField]
+        private GameObject _puzzleGate;
 
 
         private void Awake()
@@ -52,6 +57,8 @@ namespace Puzzles
         public void RestartPuzzle()
         {
             RestoreRocksPosition();
+            _puzzleGate?.SetActive(true);
+            OnPuzzleRestarted?.Invoke();
         }
 
         private void OnSlotChangeFilled()
@@ -65,6 +72,8 @@ namespace Puzzles
             }
             //TODO:
             Debug.Log("Puzlle Completed !");
+            _puzzleGate?.SetActive(false);
+
         }
 
 

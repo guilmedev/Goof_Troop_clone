@@ -37,11 +37,11 @@ public class RockPuzzle : MonoBehaviour, IKickable
         {
             _rigidBody.MovePosition(_rigidBody.position + myDirection * Time.deltaTime * m_Speed);
 
-            RaycastHit2D hit = Physics2D.Raycast(transform.position, myDirection, _rayCastHitColliderDistance, colliderLayer);
-            if (hit.collider != null)
-            {
-                Stop();
-            }
+            // RaycastHit2D hit = Physics2D.Raycast(transform.position, myDirection, _rayCastHitColliderDistance, colliderLayer);
+            // if (hit.collider != null)
+            // {
+            //     Stop();
+            // }
         }
         // Debug.DrawRay(transform.position, myDirection * _rayCastHitColliderDistance, Color.green);
     }
@@ -51,6 +51,7 @@ public class RockPuzzle : MonoBehaviour, IKickable
         if (isMoving)
         {
             //TODO: other interface full Damage
+            Stop();
         }
     }
 
