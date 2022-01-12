@@ -4,4 +4,6 @@
 2 - Retorno automático ao ganhar o puzzle ( UI simples *Puzzle Completed ! )
 3 - *Compatibilidade controle*
 4 - Finalizar TileMaps
-5- GameManager flow (Main Camera 1 só)
+5 - GameManager flow (Main Camera 1 só) -> menu and game as LoadSceneMode.Additive
+    - Menu 
+        - Current game
