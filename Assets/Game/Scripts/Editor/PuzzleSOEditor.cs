@@ -30,8 +30,15 @@ namespace EditorScritps
         public override void OnInspectorGUI()
         {
             EditorGUILayout.Space();
-            DrawScenePicker();
+
             DrawPropertiesExcluding(serializedObject, _excludedProperties);
+
+            EditorGUILayout.Space();
+
+            DrawScenePicker();
+
+            // Apply changes to the serializedProperty - always do this in the end of OnInspectorGUI.
+            serializedObject.ApplyModifiedProperties();
         }
 
         private void DrawScenePicker()
@@ -50,7 +57,7 @@ namespace EditorScritps
             {
                 Undo.RecordObject(target, "Changed selected scene");
                 _gameSceneInspected.SceneName = _sceneList[selectedScene];
-                MarkAllDirty();
+                // MarkAllDirty();
             }
         }
 
