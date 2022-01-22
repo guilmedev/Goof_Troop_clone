@@ -1,6 +1,3 @@
-1 - Menu para seleção de puzzles ( scroll view )
-    - View pode conter scene + nome ( pode fazer uso do https://github.com/UnityTechnologies/open-project-1/blob/devlogs/2-scriptable-objects/UOP1_Project/Assets/Scripts/Editor/GameSceneSOEditor.cs)
-    - GameManager pode ler a pasta scene puzzles e popular os puzzlesViews
 2 - Retorno automático ao ganhar o puzzle ( UI simples *Puzzle Completed ! )
 3 - *Compatibilidade controle*
 4 - Finalizar TileMaps
