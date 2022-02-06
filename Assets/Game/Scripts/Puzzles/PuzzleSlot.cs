@@ -10,6 +10,8 @@ namespace Puzzles
     [RequireComponent(typeof(Rigidbody2D))]
     public class PuzzleSlot : MonoBehaviour
     {
+        private const string PLAYER_TAG = "Player";
+
         [HideInInspector]
         public UnityEvent OnPuzzleSlotChanged;
 
@@ -21,6 +23,9 @@ namespace Puzzles
 
         private void OnTriggerStay2D(Collider2D other)
         {
+            if (other.gameObject.CompareTag(PLAYER_TAG))
+            return;
+
             var _other = other.GetComponent<IKickable>();
             if (other != null)
             {

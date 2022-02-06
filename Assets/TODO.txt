@@ -4,3 +4,4 @@
 5 - GameManager flow (Main Camera 1 só) -> menu and game as LoadSceneMode.Additive
     - Menu 
         - Current game
+6 - Base game Achitecture

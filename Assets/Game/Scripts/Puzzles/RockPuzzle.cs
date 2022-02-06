@@ -9,17 +9,15 @@ public class RockPuzzle : MonoBehaviour, IKickable
 {
     private Rigidbody2D _rigidBody;
     private Vector2 myDirection;
+    
     [SerializeField]
     private bool isMoving;
+
     [SerializeField]
     private float m_Speed = 2f;
 
     [SerializeField]
     private LayerMask colliderLayer;
-    [SerializeField]
-    private float _rayCastHitColliderDistance = .52f;
-
-
 
     private void Awake()
     {
@@ -31,27 +29,13 @@ public class RockPuzzle : MonoBehaviour, IKickable
     {
 
     }
+
     void FixedUpdate()
     {
         if (isMoving)
         {
-            _rigidBody.MovePosition(_rigidBody.position + myDirection * Time.deltaTime * m_Speed);
-
-            // RaycastHit2D hit = Physics2D.Raycast(transform.position, myDirection, _rayCastHitColliderDistance, colliderLayer);
-            // if (hit.collider != null)
-            // {
-            //     Stop();
-            // }
-        }
-        // Debug.DrawRay(transform.position, myDirection * _rayCastHitColliderDistance, Color.green);
-    }
-
-    private void OnCollisionEnter2D(Collision2D other)
-    {
-        if (isMoving)
-        {
-            //TODO: other interface full Damage
-            Stop();
+            if (_rigidBody.velocity.magnitude < .1f)
+                Stop();
         }
     }
 
@@ -59,13 +43,14 @@ public class RockPuzzle : MonoBehaviour, IKickable
     {
         isMoving = false;
         _rigidBody.isKinematic = true;
-        myDirection = Vector2.zero;
     }
 
     private void PerfomrKick(Vector2 kickDirection)
     {
         _rigidBody.isKinematic = false;
         myDirection = kickDirection;
+        _rigidBody.AddForce(myDirection * m_Speed, ForceMode2D.Impulse);
+
         isMoving = true;
     }
 

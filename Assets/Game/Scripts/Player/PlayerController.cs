@@ -50,8 +50,6 @@ namespace Game.Player
             _kickBehaviour.OnKickFail -= OnKickFail;
         }
 
-        [SerializeField]
-        private GameObject _gameObject;
         private void FixedUpdate()
         {
             //TODO: verify glith when stops
