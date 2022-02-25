@@ -1,7 +1,4 @@
-2 - Retorno automático ao ganhar o puzzle ( UI simples *Puzzle Completed ! )
-3 - *Compatibilidade controle*
-4 - Finalizar TileMaps
-5 - GameManager flow (Main Camera 1 só) -> menu and game as LoadSceneMode.Additive
-    - Menu 
-        - Current game
-6 - Base game Achitecture
+- *Compatibilidade controle* ( se der )
+- Finalizar TileMaps
+- Print puzzle name ( UI Manager )
+- Player Spawn Logic ( GameManager spawn once, toggle visibily/controlls , CurrentPuzzle set the initial position)

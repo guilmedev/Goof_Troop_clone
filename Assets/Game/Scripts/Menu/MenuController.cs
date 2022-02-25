@@ -35,5 +35,6 @@ public class MenuController : MonoBehaviour
     private void OnClickPuzzleButton(string SceneName)
     {
         Debug.Log("Open: " + SceneName + " scene");
+        GameManager.Instance.ChangeScene(SceneName);
     }
 }
