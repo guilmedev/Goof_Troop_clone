@@ -217,6 +217,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3461460206419270919, guid: a4065bb64c7edb14092dd53ab8ee9693, type: 3}
+      propertyPath: playerPrefab
+      value: 
+      objectReference: {fileID: 5365461276226335564, guid: 01aa00100dc003646a7471eb6b6d8b50, type: 3}
     - target: {fileID: 4001835768597537730, guid: a4065bb64c7edb14092dd53ab8ee9693, type: 3}
       propertyPath: m_Name
       value: GameManager_Prefab
@@ -227,15 +231,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4662135540949125197, guid: a4065bb64c7edb14092dd53ab8ee9693, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.38894802
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4662135540949125197, guid: a4065bb64c7edb14092dd53ab8ee9693, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.63925016
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4662135540949125197, guid: a4065bb64c7edb14092dd53ab8ee9693, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -14.248486
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4662135540949125197, guid: a4065bb64c7edb14092dd53ab8ee9693, type: 3}
       propertyPath: m_LocalRotation.w

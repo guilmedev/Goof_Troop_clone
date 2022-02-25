@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -8,6 +9,9 @@ namespace Puzzles
     public class PuzzleBehaviour : MonoBehaviour
     {
         public UnityEvent OnPuzzleRestarted;
+        public UnityEvent OnPuzzleCompleted;
+        public UnityEvent OnPuzzleLeave;
+
 
         private PuzzleSlot[] _slots;
         private RockPuzzle[] _rocks;
@@ -69,13 +73,15 @@ namespace Puzzles
                 {
                     return;
                 }
-            }
-            //TODO:
-            Debug.Log("Puzlle Completed !");
+            }   
             _puzzleGate?.SetActive(false);
 
+            OnPuzzleCompleted?.Invoke();
         }
 
-
+        public void SetUpPlayerPosition(GameObject playerPrefab)
+        {
+            //TODO SetUpPlayerPosition
+        }
     }
 }

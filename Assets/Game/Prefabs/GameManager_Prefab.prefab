@@ -45,6 +45,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4662135540949125197}
   - component: {fileID: 3461460206419270919}
+  - component: {fileID: 7029926028173579697}
   m_Layer: 0
   m_Name: GameManager_Prefab
   m_TagString: Untagged
@@ -80,6 +81,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4596de56e118f1b40971929199359b34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &7029926028173579697
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4001835768597537730}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f50791b18cfe454dac6e9587a1d514b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7441499612784516439
 GameObject:
   m_ObjectHideFlags: 0
@@ -92,6 +105,7 @@ GameObject:
   - component: {fileID: 1937622957333014334}
   - component: {fileID: 4842012587788079401}
   - component: {fileID: 7024807324873292300}
+  - component: {fileID: 6195408476613641990}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -129,7 +143,7 @@ Canvas:
   m_GameObject: {fileID: 7441499612784516439}
   m_Enabled: 1
   serializedVersion: 3
-  m_RenderMode: 0
+  m_RenderMode: 1
   m_Camera: {fileID: 0}
   m_PlaneDistance: 100
   m_PixelPerfect: 0
@@ -139,7 +153,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_AdditionalShaderChannelsFlag: 0
   m_SortingLayerID: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 10
   m_TargetDisplay: 0
 --- !u!114 &4842012587788079401
 MonoBehaviour:
@@ -181,6 +195,22 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &6195408476613641990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7441499612784516439}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7c8ee063d2f780438a43a3543648f3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  faderCanvasGroup: {fileID: 4546149089115611040}
+  loadingCanvasGroup: {fileID: 4546149089115611040}
+  gameOverCanvasGroup: {fileID: 4546149089115611040}
+  fadeDuration: 1.5
 --- !u!1 &7551197955506686589
 GameObject:
   m_ObjectHideFlags: 0
@@ -192,6 +222,7 @@ GameObject:
   - component: {fileID: 4125011130077721466}
   - component: {fileID: 5755315920028574962}
   - component: {fileID: 6438490516587425329}
+  - component: {fileID: 4546149089115611040}
   m_Layer: 5
   m_Name: Panel
   m_TagString: Untagged
@@ -256,6 +287,18 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
+--- !u!225 &4546149089115611040
+CanvasGroup:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7551197955506686589}
+  m_Enabled: 1
+  m_Alpha: 1
+  m_Interactable: 1
+  m_BlocksRaycasts: 1
+  m_IgnoreParentGroups: 0
 --- !u!1 &8818986775536905538
 GameObject:
   m_ObjectHideFlags: 0
