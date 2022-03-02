@@ -14,10 +14,9 @@ public class UIManager : MonoBehaviour
     public CanvasGroup loadingCanvasGroup;
     public CanvasGroup gameOverCanvasGroup;
 
-    public float fadeDuration = 1.5f;
     private bool _IsFading;
 
-    protected IEnumerator Fade(float finalAlpha, CanvasGroup canvasGroup)
+    protected IEnumerator Fade(float finalAlpha, CanvasGroup canvasGroup, float fadeDuration = 1f)
     {
         _IsFading = true;
         canvasGroup.blocksRaycasts = true;
@@ -33,7 +32,7 @@ public class UIManager : MonoBehaviour
         canvasGroup.blocksRaycasts = false;
     }
 
-    public IEnumerator FadeSceneIn()
+    public IEnumerator FadeSceneIn(float fadeDuration = 1f)
     {
         CanvasGroup canvasGroup;
 
@@ -44,12 +43,12 @@ public class UIManager : MonoBehaviour
         else
             canvasGroup = loadingCanvasGroup;
 
-        yield return StartCoroutine(Fade(0f, canvasGroup));
+        yield return StartCoroutine(Fade(fadeDuration, canvasGroup));
 
         canvasGroup.gameObject.SetActive(false);
     }
 
-    public IEnumerator FadeSceneOut(FadeType fadeType = FadeType.Black)
+    public IEnumerator FadeSceneOut(FadeType fadeType = FadeType.Black, float fadeDuration = 1f)
     {
         CanvasGroup canvasGroup;
         switch (fadeType)
@@ -67,6 +66,6 @@ public class UIManager : MonoBehaviour
 
         canvasGroup.gameObject.SetActive(true);
 
-        yield return StartCoroutine(Fade(1f, canvasGroup));
+        yield return StartCoroutine(Fade(fadeDuration, canvasGroup));
     }
 }

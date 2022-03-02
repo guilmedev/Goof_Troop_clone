@@ -17,8 +17,17 @@ namespace Puzzles
         private RockPuzzle[] _rocks;
         private Vector3[] _rocksInitalPosition;
 
+
+        [Header("References")]
         [SerializeField]
         private GameObject _puzzleGate;
+
+        [SerializeField]
+        private GameObject _playerInitPos;
+
+
+        public Transform GetPlayerIniPosition => _playerInitPos.transform;
+        private GameObject _playerRef;
 
 
         private void Awake()
@@ -35,6 +44,7 @@ namespace Puzzles
             }
             StoreRockComponentsPosition();
         }
+
         private void OnDestroy()
         {
             for (int i = 0; i < _slots.Length; i++)
@@ -42,6 +52,7 @@ namespace Puzzles
                 _slots[i].OnPuzzleSlotChanged.RemoveListener(OnSlotChangeFilled);
             }
         }
+
         private void StoreRockComponentsPosition()
         {
             _rocksInitalPosition = new Vector3[_rocks.Length];
@@ -51,6 +62,7 @@ namespace Puzzles
                 _rocksInitalPosition[i] = _rocks[i].transform.position;
             }
         }
+
         private void RestoreRocksPosition()
         {
             for (int i = 0; i < _rocks.Length; i++)
@@ -58,6 +70,7 @@ namespace Puzzles
                 _rocks[i].transform.SetPositionAndRotation(_rocksInitalPosition[i], Quaternion.identity);
             }
         }
+
         public void RestartPuzzle()
         {
             RestoreRocksPosition();
@@ -73,15 +86,12 @@ namespace Puzzles
                 {
                     return;
                 }
-            }   
+            }
             _puzzleGate?.SetActive(false);
 
             OnPuzzleCompleted?.Invoke();
         }
 
-        public void SetUpPlayerPosition(GameObject playerPrefab)
-        {
-            //TODO SetUpPlayerPosition
-        }
+
     }
 }

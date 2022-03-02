@@ -1,4 +1,6 @@
 - *Compatibilidade controle* ( se der )
 - Finalizar TileMaps
 - Print puzzle name ( UI Manager )
-- Player Spawn Logic ( GameManager spawn once, toggle visibily/controlls , CurrentPuzzle set the initial position)
+
+
+*Bug Restart Fade work once

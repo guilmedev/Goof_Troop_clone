@@ -43,10 +43,6 @@ public class SceneController : MonoBehaviour
     {
         _isTransitioning = true;
 
-        // if (m_PlayerInput == null)
-        //     m_PlayerInput = FindObjectOfType<PlayerInput>();
-        // m_PlayerInput.ReleaseControl(resetInputValues);
-
         yield return StartCoroutine(GameManager.Instance.UIManager.FadeSceneOut());
 
         var topScene = SceneManager.GetSceneAt(SceneManager.sceneCount - 1);
@@ -56,12 +52,7 @@ public class SceneController : MonoBehaviour
 
         _currentScene = SceneManager.GetSceneByName(newSceneName);
 
-        // m_PlayerInput = FindObjectOfType<PlayerInput>();
-        // m_PlayerInput.ReleaseControl(resetInputValues);
-
         yield return StartCoroutine(GameManager.Instance.UIManager.FadeSceneIn());
-
-        // m_PlayerInput.GainControl();
 
         _isTransitioning = false;
 
