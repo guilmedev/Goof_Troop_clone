@@ -12,7 +12,11 @@ namespace Game.Player
         private KickBehaviour _kickBehaviour;
         private Interactor _interactor;
 
+
+
         //References
+        [SerializeField]
+        private GameObject _playerArtGO;
         private Rigidbody2D _rigidbody2D;
         private AnimatorController _animatorController;
         //Getters
@@ -60,11 +64,31 @@ namespace Game.Player
             _rigidbody2D.velocity = _playerMovement.GetMovement() * _playerMovement.Speed;
         }
 
+        public void ToggleControll(bool enable)
+        {
+            _playerMovement.enabled = enable;
+            _kickBehaviour.enabled = enable;
+            _interactor.enabled = enable;
+        }
+
+        public void ToggleVisibility(bool enable)
+        {
+            _playerArtGO.SetActive(enable);
+        }
+
+        public void ToggleControllAndVisibility(bool enable)
+        {
+            _playerMovement.enabled = enable;
+            _kickBehaviour.enabled = enable;
+            _interactor.enabled = enable;
+            _playerArtGO.SetActive(enable);
+        }
+
         #region CallBacks
         private void OnPlayerkick()
         {
             Vector2 position = ((Vector2)this.transform.position - new Vector2(0, .5f));
-            
+
             GameObject interactable;
 
             if (_interactor.Interact(position, _idleDirection, out interactable))
