@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -32,7 +33,7 @@ public class UIManager : MonoBehaviour
         canvasGroup.blocksRaycasts = false;
     }
 
-    public IEnumerator FadeSceneIn(float fadeDuration = 1f)
+    public IEnumerator FadeSceneIn(float fadeDuration = 1f, Action OnComplete = null)
     {
         CanvasGroup canvasGroup;
 
@@ -43,12 +44,14 @@ public class UIManager : MonoBehaviour
         else
             canvasGroup = loadingCanvasGroup;
 
-        yield return StartCoroutine(Fade(fadeDuration, canvasGroup));
+        yield return StartCoroutine(Fade(0f, canvasGroup, fadeDuration));
 
         canvasGroup.gameObject.SetActive(false);
+
+        OnComplete?.Invoke();
     }
 
-    public IEnumerator FadeSceneOut(FadeType fadeType = FadeType.Black, float fadeDuration = 1f)
+    public IEnumerator FadeSceneOut(FadeType fadeType = FadeType.Black, float fadeDuration = 1f, Action OnComplete = null)
     {
         CanvasGroup canvasGroup;
         switch (fadeType)
@@ -66,6 +69,8 @@ public class UIManager : MonoBehaviour
 
         canvasGroup.gameObject.SetActive(true);
 
-        yield return StartCoroutine(Fade(fadeDuration, canvasGroup));
+        yield return StartCoroutine(Fade(1f, canvasGroup, fadeDuration));
+
+        OnComplete?.Invoke();
     }
 }

@@ -52,7 +52,7 @@ public class GameManager : Singleton<GameManager>
 
             _playerController.transform.position = currentPuzzle.GetPlayerIniPosition.transform.position;
             _playerController.ToggleControll(true);
-
+            
             //Puzzle events
             currentPuzzle?.OnPuzzleCompleted?.AddListener(OnPuzzleCompleted);
             currentPuzzle?.OnPuzzleRestarted?.AddListener(OnPuzzleRestarted);
@@ -75,7 +75,7 @@ public class GameManager : Singleton<GameManager>
 
         _playerController.transform.position = currentPuzzle.GetPlayerIniPosition.position;
 
-        yield return StartCoroutine(_uiManager.FadeSceneIn(.5f));
+        yield return StartCoroutine(_uiManager.FadeSceneIn(.8f));
 
         _playerController.ToggleControll(true);
 

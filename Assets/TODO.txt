@@ -1,4 +1,4 @@
-- *Compatibilidade controle* ( se der )
+- *Compatibilidade controle* ( se der ) -> https://answers.unity.com/questions/874310/scrollrect-gamepad-support.html
 - Finalizar TileMaps
 - Print puzzle name ( UI Manager )
 
