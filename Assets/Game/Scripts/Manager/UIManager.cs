@@ -7,7 +7,7 @@ using TMPro;
 public class UIManager : MonoBehaviour
 {
     public readonly string PUZZZLE_COMPLETED_MESSAGE = "Puzzle Completed!";
-    
+
 
     public enum FadeType
     {
@@ -30,6 +30,13 @@ public class UIManager : MonoBehaviour
     public void ShowCenterMessageFade(string message, float fadeDuration = 1f, Action OnComplete = null)
     {
         StartCoroutine(MessageRoutine(message, fadeDuration, () => OnComplete?.Invoke()));
+    }
+
+    public void TogglePuzzleName(bool show, string message = "")
+    {
+        _cornerMessageText.text = message;
+        cornerMsgCanvasGroup.alpha = show ? 1 : 0;
+        cornerMsgCanvasGroup.gameObject.SetActive(show);
     }
 
     public IEnumerator MessageRoutine(string message, float fadeDuration = 1f, Action OnComplete = null)

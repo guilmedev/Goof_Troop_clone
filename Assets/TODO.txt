@@ -4,3 +4,6 @@
 
 
 *Bug Restart Fade work once
+
+
+Assets reference : https://www.spriters-resource.com/snes/gooftroop/sheet/46473/ 

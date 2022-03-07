@@ -9,7 +9,7 @@ using UnityEngine.UI;
 public class PuzzleView : MonoBehaviour
 {
 
-    public Action<string> OnClickButton;
+    public Action<PuzzleSO> OnClickButton;
     private PuzzleSO _data;
 
     [Header("View")]
@@ -35,7 +35,7 @@ public class PuzzleView : MonoBehaviour
 
     private void ClickButton()
     {
-        OnClickButton?.Invoke(_data.SceneName);
+        OnClickButton?.Invoke(_data);
     }
 
     private void SetDificulty(int dificulty)

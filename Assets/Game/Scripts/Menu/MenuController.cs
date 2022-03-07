@@ -32,9 +32,8 @@ public class MenuController : MonoBehaviour
         }
     }
 
-    private void OnClickPuzzleButton(string SceneName)
+    private void OnClickPuzzleButton(PuzzleSO puzzleData)
     {
-        Debug.Log("Open: " + SceneName + " scene");
-        GameManager.Instance.ChangeScene(SceneName);
+        GameManager.Instance.ChangeScene(puzzleData);
     }
 }
