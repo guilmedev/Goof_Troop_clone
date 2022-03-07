@@ -52,7 +52,7 @@ public class GameManager : Singleton<GameManager>
 
             _playerController.transform.position = currentPuzzle.GetPlayerIniPosition.transform.position;
             _playerController.ToggleControll(true);
-            
+
             //Puzzle events
             currentPuzzle?.OnPuzzleCompleted?.AddListener(OnPuzzleCompleted);
             currentPuzzle?.OnPuzzleRestarted?.AddListener(OnPuzzleRestarted);
@@ -86,10 +86,15 @@ public class GameManager : Singleton<GameManager>
     {
         _playerController.ToggleControll(false);
 
-        _sceneController.TransitionToScene("Menu");
+        _uiManager.ShowCenterMessageFade( _uiManager.PUZZZLE_COMPLETED_MESSAGE, 1f, () =>
+        {
+            _sceneController.TransitionToScene(FIRST_VALID_SCENE_NAME);
 
-        currentPuzzle?.OnPuzzleCompleted?.RemoveAllListeners();
-        currentPuzzle = null;
-        _restartGameVisualRoutine = null;
+            currentPuzzle?.OnPuzzleCompleted?.RemoveAllListeners();
+            currentPuzzle = null;
+            _restartGameVisualRoutine = null;
+
+        });
+
     }
 }

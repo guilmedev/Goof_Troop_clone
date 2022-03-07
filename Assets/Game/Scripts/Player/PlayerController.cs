@@ -102,7 +102,7 @@ namespace Game.Player
         }
         private void OnKickFail()
         {
-            Debug.Log("Ouch, kick Fail");
+            // Debug.Log("Ouch, kick Fail");
         }
 
         #endregion

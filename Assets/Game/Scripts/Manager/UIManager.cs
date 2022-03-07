@@ -2,20 +2,52 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using TMPro;
 
 public class UIManager : MonoBehaviour
 {
+    public readonly string PUZZZLE_COMPLETED_MESSAGE = "Puzzle Completed!";
+    
 
     public enum FadeType
     {
-        Black, Loading, GameOver,
+        Black, CenterMessage, CornerMessage,
     }
 
+    [SerializeField]
+    private TextMeshProUGUI _centerMessageText;
+    [SerializeField]
+    private TextMeshProUGUI _cornerMessageText;
+
+    [Space]
+
     public CanvasGroup faderCanvasGroup;
-    public CanvasGroup loadingCanvasGroup;
-    public CanvasGroup gameOverCanvasGroup;
+    public CanvasGroup centerMsgCanvasGroup;
+    public CanvasGroup cornerMsgCanvasGroup;
 
     private bool _IsFading;
+
+    public void ShowCenterMessageFade(string message, float fadeDuration = 1f, Action OnComplete = null)
+    {
+        StartCoroutine(MessageRoutine(message, fadeDuration, () => OnComplete?.Invoke()));
+    }
+
+    public IEnumerator MessageRoutine(string message, float fadeDuration = 1f, Action OnComplete = null)
+    {
+        _centerMessageText.text = message;
+
+        yield return StartCoroutine(FadeSceneOut(FadeType.CenterMessage, 1f));
+
+        yield return new WaitForSeconds(1.5f);
+
+        yield return StartCoroutine(Fade(0f, centerMsgCanvasGroup, fadeDuration));
+
+        centerMsgCanvasGroup.gameObject.SetActive(false);
+
+        OnComplete?.Invoke();
+    }
+
+
 
     protected IEnumerator Fade(float finalAlpha, CanvasGroup canvasGroup, float fadeDuration = 1f)
     {
@@ -39,10 +71,10 @@ public class UIManager : MonoBehaviour
 
         if (faderCanvasGroup.alpha > 0.1f)
             canvasGroup = faderCanvasGroup;
-        else if (gameOverCanvasGroup.alpha > 0.1f)
-            canvasGroup = gameOverCanvasGroup;
+        else if (cornerMsgCanvasGroup.alpha > 0.1f)
+            canvasGroup = cornerMsgCanvasGroup;
         else
-            canvasGroup = loadingCanvasGroup;
+            canvasGroup = centerMsgCanvasGroup;
 
         yield return StartCoroutine(Fade(0f, canvasGroup, fadeDuration));
 
@@ -59,11 +91,11 @@ public class UIManager : MonoBehaviour
             case FadeType.Black:
                 canvasGroup = faderCanvasGroup;
                 break;
-            case FadeType.GameOver:
-                canvasGroup = gameOverCanvasGroup;
+            case FadeType.CornerMessage:
+                canvasGroup = cornerMsgCanvasGroup;
                 break;
             default:
-                canvasGroup = loadingCanvasGroup;
+                canvasGroup = centerMsgCanvasGroup;
                 break;
         }
 
