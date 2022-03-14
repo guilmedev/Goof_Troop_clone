@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using Game.Player;
+using Game.ScriptableObjects.Puzzles;
 using Puzzles;
 using UnityEngine;
 using UnityEngine.Events;
@@ -44,11 +45,12 @@ public class GameManager : Singleton<GameManager>
         _playerController.ToggleControll(false);
     }
 
-    public void ChangeScene(string sceneName)
+    public void ChangeScene(PuzzleSO puzzleData)
     {
-        _sceneController.TransitionToScene(sceneName, () =>
+        _sceneController.TransitionToScene(puzzleData.SceneName, () =>
         {
             currentPuzzle = FindObjectOfType<PuzzleBehaviour>();
+            _uiManager.TogglePuzzleName(true, puzzleData.puzzleTitle);
 
             _playerController.transform.position = currentPuzzle.GetPlayerIniPosition.transform.position;
             _playerController.ToggleControll(true);
@@ -79,6 +81,9 @@ public class GameManager : Singleton<GameManager>
 
         _playerController.ToggleControll(true);
 
+// #if UNITY_ANDROID && UNITY_IOS
+//         _uiManager.ToggleMobileButtons(true);
+// #endif
         _restartGameVisualRoutine = null;
     }
 
@@ -86,15 +91,17 @@ public class GameManager : Singleton<GameManager>
     {
         _playerController.ToggleControll(false);
 
-        _uiManager.ShowCenterMessageFade( _uiManager.PUZZZLE_COMPLETED_MESSAGE, 1f, () =>
-        {
-            _sceneController.TransitionToScene(FIRST_VALID_SCENE_NAME);
+        _uiManager.TogglePuzzleName(false, "");
 
-            currentPuzzle?.OnPuzzleCompleted?.RemoveAllListeners();
-            currentPuzzle = null;
-            _restartGameVisualRoutine = null;
+        _uiManager.ShowCenterMessageFade(_uiManager.PUZZZLE_COMPLETED_MESSAGE, 1f, () =>
+       {
+           _sceneController.TransitionToScene(FIRST_VALID_SCENE_NAME);
 
-        });
+           currentPuzzle?.OnPuzzleCompleted?.RemoveAllListeners();
+           currentPuzzle = null;
+           _restartGameVisualRoutine = null;
+
+       });
 
     }
 }
