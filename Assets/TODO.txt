@@ -1,9 +1,9 @@
 - *Compatibilidade controle* ( se der ) -> https://answers.unity.com/questions/874310/scrollrect-gamepad-support.html
+- UI Navigation reference -> https://www.youtube.com/watch?v=Hn804Wgr3KE
 - Finalizar TileMaps
-- Print puzzle name ( UI Manager )
 
 
-*Bug Restart Fade work once
+*Bug = Kick diagonal !!
 
 
 Assets reference : https://www.spriters-resource.com/snes/gooftroop/sheet/46473/ 

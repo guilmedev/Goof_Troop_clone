@@ -81,6 +81,9 @@ public class GameManager : Singleton<GameManager>
 
         _playerController.ToggleControll(true);
 
+// #if UNITY_ANDROID && UNITY_IOS
+//         _uiManager.ToggleMobileButtons(true);
+// #endif
         _restartGameVisualRoutine = null;
     }
 

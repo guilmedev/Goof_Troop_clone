@@ -25,6 +25,11 @@ public class UIManager : MonoBehaviour
     public CanvasGroup centerMsgCanvasGroup;
     public CanvasGroup cornerMsgCanvasGroup;
 
+    [Space]
+    [SerializeField]
+    private GameObject _mobileButtons;
+
+
     private bool _IsFading;
 
     public void ShowCenterMessageFade(string message, float fadeDuration = 1f, Action OnComplete = null)
@@ -52,6 +57,11 @@ public class UIManager : MonoBehaviour
         centerMsgCanvasGroup.gameObject.SetActive(false);
 
         OnComplete?.Invoke();
+    }
+
+    public void ToggleMobileButtons(bool show)
+    {
+        _mobileButtons.SetActive(show);
     }
 
 
