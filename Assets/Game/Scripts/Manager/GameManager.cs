@@ -55,6 +55,9 @@ public class GameManager : Singleton<GameManager>
             _playerController.transform.position = currentPuzzle.GetPlayerIniPosition.transform.position;
             _playerController.ToggleControll(true);
 
+            // _uiManager.ToggleMobileButtons(Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer);            
+            // _uiManager.ToggleMobileButtons(true);
+
             //Puzzle events
             currentPuzzle?.OnPuzzleCompleted?.AddListener(OnPuzzleCompleted);
             currentPuzzle?.OnPuzzleRestarted?.AddListener(OnPuzzleRestarted);
@@ -73,6 +76,8 @@ public class GameManager : Singleton<GameManager>
     {
         _playerController.ToggleControll(false);
 
+        // _uiManager.ToggleMobileButtons(false);
+
         yield return StartCoroutine(_uiManager.FadeSceneOut(FadeType.Black, .5f));
 
         _playerController.transform.position = currentPuzzle.GetPlayerIniPosition.position;
@@ -81,9 +86,10 @@ public class GameManager : Singleton<GameManager>
 
         _playerController.ToggleControll(true);
 
-// #if UNITY_ANDROID && UNITY_IOS
-//         _uiManager.ToggleMobileButtons(true);
-// #endif
+        // _uiManager.ToggleMobileButtons(Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer);
+        // _uiManager.ToggleMobileButtons(true);
+
+
         _restartGameVisualRoutine = null;
     }
 
@@ -92,6 +98,9 @@ public class GameManager : Singleton<GameManager>
         _playerController.ToggleControll(false);
 
         _uiManager.TogglePuzzleName(false, "");
+
+        _uiManager.ToggleMobileButtons(false);
+
 
         _uiManager.ShowCenterMessageFade(_uiManager.PUZZZLE_COMPLETED_MESSAGE, 1f, () =>
        {

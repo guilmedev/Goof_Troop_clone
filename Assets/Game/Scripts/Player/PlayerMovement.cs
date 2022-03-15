@@ -32,7 +32,7 @@ namespace Game.Player
         void Start()
         {
             // actions.Player.Move.performed += ctx => Move(ctx.ReadValue<Vector2>());
-            actions.Player.Fire.performed += ctx => Use();
+            actions.Player.Kick.performed += ctx => Use();
         }
 
         private void Use()
