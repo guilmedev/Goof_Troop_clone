@@ -14,8 +14,8 @@ public class KickBehaviour : MonoBehaviour, IKickBehaviour
     public void DoKick(Vector2 direction, GameObject kickableObject)
     {
         if (kickableObject != null)
-        {
-            // if (direction.x != 0 && direction.y != 0) return;
+        {           
+            if (direction.x != 0 && direction.y != 0) return;
 
             kickableObject.GetComponent<IKickable>().Kick(direction, this);
         }

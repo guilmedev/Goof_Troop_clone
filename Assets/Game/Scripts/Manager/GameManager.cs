@@ -56,7 +56,7 @@ public class GameManager : Singleton<GameManager>
             _playerController.ToggleControll(true);
 
             // _uiManager.ToggleMobileButtons(Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer);            
-            _uiManager.ToggleMobileButtons(true);
+            // _uiManager.ToggleMobileButtons(true);
 
             //Puzzle events
             currentPuzzle?.OnPuzzleCompleted?.AddListener(OnPuzzleCompleted);
@@ -76,7 +76,7 @@ public class GameManager : Singleton<GameManager>
     {
         _playerController.ToggleControll(false);
 
-        _uiManager.ToggleMobileButtons(false);
+        // _uiManager.ToggleMobileButtons(false);
 
         yield return StartCoroutine(_uiManager.FadeSceneOut(FadeType.Black, .5f));
 
@@ -87,7 +87,7 @@ public class GameManager : Singleton<GameManager>
         _playerController.ToggleControll(true);
 
         // _uiManager.ToggleMobileButtons(Application.platform == RuntimePlatform.Android || Application.platform == RuntimePlatform.IPhonePlayer);
-        _uiManager.ToggleMobileButtons(true);
+        // _uiManager.ToggleMobileButtons(true);
 
 
         _restartGameVisualRoutine = null;
